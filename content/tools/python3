@@ -1,0 +1,2 @@
+#!/bin/sh
+/c/Users/Administrator/AppData/Local/Programs/Python/Python313-arm64/python.exe "$@"

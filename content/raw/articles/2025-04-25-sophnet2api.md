@@ -1,0 +1,7 @@
+---
+标题: Sophnet2api
+来源: Cubox
+原始文件: "C:\Users\Administrator\Documents\OB\Cubox\20250425-Sophnet2api.md"
+---
+# Sophnet2api
+LINUX DO。Sophnet转API工具。

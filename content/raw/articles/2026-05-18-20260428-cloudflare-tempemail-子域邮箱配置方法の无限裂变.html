@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cloudflare tempemail 子域邮箱配置方法の无限裂变</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
+    h1 { color: #1f2937; border-bottom: 2px solid #e5e7eb; padding-bottom: 10px; }
+    h2, h3 { color: #374151; margin-top: 24px; }
+    a { color: #3b82f6; }
+    code { background: #f3f4f6; padding: 2px 6px; border-radius: 4px; font-family: monospace; }
+    pre { background: #1f2937; color: #e5e7eb; padding: 16px; border-radius: 8px; overflow-x: auto; }
+    pre code { background: none; padding: 0; }
+    img { border-radius: 8px; margin: 10px 0; }
+    hr { border: none; border-top: 1px solid #e5e7eb; margin: 20px 0; }
+    .metadata { background: #f9fafb; padding: 15px; border-radius: 8px; margin-bottom: 20px; font-size: 14px; color: #6b7280; }
+    details { margin: 10px 0; padding: 10px; background: #f9fafb; border-radius: 8px; }
+    summary { cursor: pointer; font-weight: 600; }
+  </style>
+</head>
+<body>
+  <div class="metadata">
+    <p><strong>来源:</strong> <a href="https://linux.do/t/topic/1903498" target="_blank">https://linux.do/t/topic/1903498</a></p>
+    <p><strong>作者:</strong> gally16 | <strong>分类:</strong> 开发调优</p>
+    <p><strong>保存时间:</strong> 2026-04-07 15:57:38</p>
+  </div>
+  <article>
+    <p><hr><br>来源: https://linux.do/t/topic/1903498<br>标题: "cloudflare tempemail 子域邮箱配置方法の无限裂变"<br>作者: gally16<br>分类: 开发调优<br>tags:<br>  - discourse<br>  - 软件开发<br>  - openai<br>保存时间: 2026-04-07 15:57:38<br>评论数: 0<br><hr></p><p><h1>cloudflare tempemail 子域邮箱配置方法の无限裂变</h1></p><p>从 <a href="https://linux.do/t/topic/1666961" target="_blank">【教程】2026 版 小白也能看懂的自建 Cloudflare 临时邮箱教程（域名邮箱）</a></p><p>继续  <br>最近佬们都在玩注册机，奈何奥特曼风控太厉害，cf 临时邮箱的作者也祭出了子域邮箱，又可以玩耍了。根据其他佬的统计，子域邮箱注册成功率大概 60% 左右，也可以了。</p><p>前置部署 <code>dreamhunter2333/cloudflare_temp_email</code> 项目，该项目在昨天的更新中增加了对 “随机二级域名（子域名）” 的支持。</p><p><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">github.com</a></p><p><img src="https://cdn3.linux.do/optimized/4X/9/b/2/9b247f53b8917ef9ebc98ff722d41ec4057afa4d_2_690x344.png" alt="image" style="max-width:100%;"></p><p><h3><a href="https://github.com/dreamhunter2333/cloudflare_temp_email" target="_blank">GitHub - dreamhunter2333/cloudflare_temp_email: CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件...</a></h3></p><p>CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot</p><p>要实现 \<em>\</em>“无论子域的值是什么（泛解析）都能正常收信”\<em>\</em>，需要通过 “<strong>配置通配符 DNS + 主域 Catch-all + 项目环境变量</strong>” 的三步走方案来绕过官方界面限制。具体操作步骤如下：</p><p><h3>第一步：在 DNS 记录中强行添加 “通配符 MX 记录”</h3></p><p>Cloudflare 的邮件路由界面不支持泛解析，我们就直接去域名的 DNS 管理页面手动加。</p><p>1.  进入 Cloudflare 控制台，打开你的主域名（例如 <code>example.com</code>），点击左侧的 <strong>“DNS” → “记录”</strong>。<br>2.  查看你当前主域名的 MX 记录，记下指向 Cloudflare 邮件服务器的三个地址和优先级（Priority）。<br>3.  点击 “添加记录”，添加三条<strong>通配符 MX 记录</strong>（将<strong>名称</strong>直接填入 <code>*</code>，代表所有未定义的子域）：<br>    <em>   类型：<code>MX</code> | 名称：<code></em></code> | 邮件服务器：<code>route1.mx.cloudflare.net</code> | 优先级：（填你实际的，如 86）<br>    <em>   类型：<code>MX</code> | 名称：<code></em></code> | 邮件服务器：<code>route2.mx.cloudflare.net</code> | 优先级：（填你实际的，如 65）<br>    <em>   类型：<code>MX</code> | 名称：<code></em></code> | 邮件服务器：<code>route3.mx.cloudflare.net</code> | 优先级：（填你实际的，如 99）<br>4.  再添加一条<strong>通配符 TXT (SPF) 记录</strong>，防止别人给你发邮件时被退信：<br>    <em>   类型：<code>TXT</code> | 名称：<code></em></code> | 内容：<code>v=spf1 include:_spf.mx.cloudflare.net ~all</code></p><p>（双向域名要两边都配置）</p><p><img src="https://cdn3.linux.do/original/4X/a/0/7/a070849185148abe1cc21a3889622167bd4bee17.png" alt="mTjsKfkHjZDtUssA3DNZ2cxq7WL" style="max-width:100%;"></p><p><h3>第二步：开启主域名的 Catch-all (全部捕获)</h3></p><p>由于发给任意子域名（例如 <code>test@abc.example.com</code>）的邮件，在系统中找不到特定的收件规则，我们需要用 Catch-all 功能把它们统一拦截并交给 Worker 处理。</p><p>1.  在左侧菜单进入 <strong>“电子邮件” → “电子邮件路由” → “路由规则”</strong> 选项卡。<br>2.  将页面滚动到最下方的 <strong>“Catch-all 地址”</strong>（通配符地址）。<br>3.  状态设为开启，操作选择 <strong>“发送到 Worker” (Send to a Worker)</strong>。<br>4.  目标选择你已经部署好的临时邮箱 Worker 程序（例如 <code>cloudflare_temp_email</code>）。  <br>    <br>    <img src="https://cdn3.linux.do/original/4X/1/1/8/118e5c6d08604ae3fa2261fcc25e8b55df939a02.png" alt="2vj7H6pqDMzREM9CvnjXlL81diq" style="max-width:100%;"><br>    </p><p><h3>第三步：配置临时邮箱 Worker 的变量支持</h3></p><p>1.  <strong>更新代码：</strong> 确保你部署的 <code>cloudflare_temp_email</code> 是最新版本 V1.50（支持随机二级域名功能的代码才行）。<br>2.  <strong>配置环境变量：</strong>  <br>    进入 Cloudflare 后台的 <strong>Workers 和 Pages</strong>，找到你的临时邮箱应用，进入 <strong>设置 → 变量</strong>（或者修改你项目代码里的 <code>wrangler.toml</code> 文件）。<br>3.  找到 <code>DOMAINS</code> 这个环境变量。  <br>    将你的主域名加进去，例如 <code>["example.com"]</code>。  <br>    <em>注：最新的代码逻辑会自动识别发往 <code>xxx.example.com</code>（也就是你配置的主域名的任意二级域名）的邮件，并将其统一收录。</em><br>4.  添加 <code>RANDOM_SUBDOMAIN_DOMAINS</code> 这个环境变量。  <br>    将你的主域名加进去，例如 <code>["example.com"]</code>。ENABLE_RANDOM_SUBDOMAIN = true</p><p><h3>验证与测试</h3></p><p>以上三步全部设置完成后：</p><p>1.  打开网页进入你部署好的临时邮箱前端界面。<br>2.  用你自己平时的个人邮箱，尝试往 <code>test@随便写什么.example.com</code> 发送一封测试邮件。<br>3.  只要 DNS 解析生效，邮件会命中你主域的 Catch-all，随后被你的 Worker 接收，你就能在前端的收件箱里看到该邮件了！</p>
+  </article>
+</body>
+</html>
