@@ -1,35 +1,69 @@
 ---
-type: source
-title: "Exploring-Emotional-Intelligence-with-Dr.-Mark-Brackett"
-date: 2024-10-17
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+tags: [情商, 情绪管理, RULER, 心理学, Huberman Lab, Mark Brackett]
+created: 2024-10-17
+updated: 2026-06-13
+sources:
+  - raw/notes/2024-10-17-Exploring-Emotional-Intelligence-with-Dr.-Mark-Brackett.md
 ---
 
-# Exploring-Emotional-Intelligence-with-Dr.-Mark-Brackett
+# Exploring Emotional Intelligence with Dr. Mark Brackett
 
-> 标题: Exploring Emotional Intelligence with Dr. Mark Brackett
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2024-10-17
-
-
-
+Huberman Lab播客对耶鲁大学心理学教授、耶鲁情绪智力中心主任Dr. Mark Brackett的专访，系统介绍情商的定义、RULER框架、情绪粒度的重要性，以及数字时代对情绪智力的挑战。属于[[心理与情感]]领域的核心知识，也是[[Huberman Lab]]科学播客的重要一期。
 
 ## 核心内容
 
-标题: Exploring Emotional Intelligence with Dr. Mark Brackett
+### RULER框架：情商的五个核心技能
+
+| 技能 | 英文 | 说明 |
+|------|------|------|
+| 识别情绪 | Recognise | 觉察自己和他人当下的情绪状态 |
+| 理解情绪 | Understand | 分析情绪产生的原因和背景 |
+| 标注情绪 | Label | 用精确的语言描述情绪体验 |
+| 表达情绪 | Express | 在适当的场景中传达情绪 |
+| 调节情绪 | Regulate | 管理和调整情绪反应 |
+
+### 关键观点
+
+- **情商是技能集合，非单一能力**：情商不是笼统的"社交能力"，而是由五项离散技能组成，每项都可以独立训练
+- **内外兼具**：情商既包含自我觉察（内省），也包含对他人情绪的感知（人际），本质上是双向的
+- **身体觉察是基础**：情绪首先在身体中产生信号（如焦虑时胸闷、愤怒时发热），忽略身体信号就无法准确识别情绪
+- **情绪粒度（Emotional Granularity）至关重要**：区分焦虑、压力、恐惧和不知所措之间的差异，能帮助找到情绪的真正根源，从而选择正确的调节策略
+
+### 情绪误读案例
+
+Dr. Brackett以武术考试失败为例：将失望误认为愤怒，会导致不恰当的应对方式（如对外发火而非自我反思）。情绪调节的前提是**正确识别情绪的根源**。
+
+### 数字时代的挑战
+
+- **表情符号的简化危害**：用emoji代表情绪会降低情绪觉察的精细度，掩盖真实感受的复杂性
+- **网络交流的情绪粗糙化**：学术批评是细腻和尊重的，网络评论往往是粗暴和非人化的——这种反差损害了人们的情绪智力
+- **在线反馈的情绪伤害**：对情绪敏感的人来说，网络负面反馈可能造成严重心理影响
+
+### 与[[Thin Within]]和信仰减重的关联
+
+RULER框架中的"识别"和"理解"情绪，与[[Thin Within]]中"区分生理饥饿和情绪性饥饿"的核心方法高度一致。情绪觉察是打破情绪性进食循环的第一步。
+
+## 关键概念
+
+- **RULER框架** — Dr. Brackett提出的情商五技能模型：识别、理解、标注、表达、调节
+- **情绪粒度 (Emotional Granularity)** — 区分相似但不同的情绪的能力，粒度越高调节越精准
+- **情绪性进食 (Emotional Eating)** — 由情绪触发而非生理饥饿驱动的进食行为
+- **身体觉察 (Body Awareness)** — 通过身体信号（心跳、肌肉紧张等）感知情绪状态
+- **情绪标注 (Emotional Labeling)** — 用精确词汇描述感受，研究显示标注本身就能降低情绪强度
 
 ## 关联实体
 
-（待分析后补充）
+- [[Dr. Mark Brackett]] — 耶鲁大学心理学教授，耶鲁情绪智力中心主任
+- [[Huberman Lab]] — Andrew Huberman主持的神经科学播客
+- [[RULER]] — 情商五技能框架
+- [[Yale Center for Emotional Intelligence]] — 耶鲁情绪智力中心
 
 ## 相关页面
 
-（待分析后补充）
+- [[心理与情感]] — 心理健康与情感管理知识体系
+- [[Huberman Lab]] — 神经科学与健康优化播客
+- [[减重与健康]] — 情绪性进食与减重心理策略
+- [[科学健康优化]] — 身心连接与健康科学
+- [[Thin Within]] — 信仰基础的情绪觉察与饮食管理

@@ -1,34 +1,63 @@
 ---
-tags: [health, omad, emotional-eating, habit-change, diet]
+tags: [health, omad, emotional-eating, habit-change, diet, psychology]
 created: 2024-12-25
-updated: 2024-12-25
-sources: [Personal health analysis, AI-assisted]
+updated: 2026-06-13
+sources:
+  - raw/notes/2024-12-25-OMAD期间的情绪与进食问题分析及建议.md
 ---
 
 # OMAD Period Emotional and Eating Problem Analysis
 
-## Summary
-An analysis of challenges during OMAD (One Meal A Day) practice covering two main issues: morning low mood (likely due to low blood sugar after overnight fast—bulletproof coffee and yogurt may not provide sufficient energy) and evening overeating (emotional eating triggered by accumulated daily stress and overly strict daytime restriction). Recommendations include: adding protein to morning intake, gradually delaying breakfast time, practicing mindful eating at dinner, planning meal content in advance, and identifying emotional eating triggers through journaling. Key insight: restrictive eating can paradoxically increase food cravings.
+## 概要
 
-## Core Ideas
-- **Morning mood issues**: low blood sugar from insufficient morning nutrition; add protein (eggs, Greek yogurt, protein powder)
-- **Evening overeating**: emotional eating driven by daytime restriction and stress accumulation
-- **Mindful eating**: focus on food's sensory qualities, eat slowly, stop at first signs of satiety
-- **Plan meals ahead**: pre-planned dinner content and portions reduce impulsive choices
-- **Allow occasional exceptions**: 1-2 relaxed meals per week prevent the deprivation-rebellion cycle
-- **Identify emotional triggers** through journaling, find alternative coping mechanisms
+对 OMAD（一日一餐）饮食实践期间两大核心问题的系统分析：晨间情绪低落（可能源于夜间禁食后的低血糖——防弹咖啡和酸奶水果提供的能量不足）和晚间过量进食（由日间严格限制和压力积累触发的情绪性饮食）。建议方案包括：早晨加入蛋白质、逐步推迟早餐时间、晚餐练习正念进食、提前规划餐食内容、通过记录识别情绪触发因素。核心洞察：过度限制性饮食会悖论性地增加食物渴望——限制越严，反弹越强。
 
-## Key Concepts
-- [[OMAD]] protocol challenges
-- Emotional eating mechanism and intervention
-- Mindful eating practices
-- Blood sugar stability and mood
-- Progressive dietary adaptation
-- Trigger identification and alternative coping
+## 核心内容
 
-## Related Pages
-- [[OMAD Emotional Eating Resources]]
-- [[OMAD Diet Challenge Reflection]]
-- [[Semaglutide and Calorie Control]]
-- [[Tiny Habits]] – gradual behavior change approach
-- [[Intuitive Eating]] – alternative to restrictive dieting
+### 晨间情绪低落问题
+- **生理原因**: 早晨空腹血糖偏低，直接影响情绪和精力水平
+- **心理原因**: 即使非真饿，习惯性早餐的缺失会产生"少了点什么"的心理不适
+- **解决方案**:
+  - 调整晨间摄入——加入蛋白质（水煮蛋、蛋白粉、希腊酸奶）稳定血糖、延长饱腹感
+  - 逐步延迟"早餐"时间，让身体适应更长的禁食窗口
+  - 区分真饥饿与心理不适——记录每天早上的具体感受
+  - 轻度运动（散步、瑜伽）释放压力，提升情绪
+
+### 晚间过量进食问题
+- **情绪性进食机制**: 日间的限制和压力积累到晚间，通过食物寻求安慰和满足
+- **限制悖论**: 白天能量摄入不足，身体在晚间发出强烈进食信号
+- **正念缺失**: 机械进食——未真正关注饥饿和饱腹感
+- **解决方案**:
+  - **正念进食**: 专注食物的色香味，慢慢咀嚼，感受饱腹信号，在满足感初现时停止
+  - **控制进食环境**: 安静放松的环境，避免边看屏幕边吃
+  - **提前规划晚餐**: 预定菜色和分量（蛋白质+蔬菜+健康碳水），减少冲动选择
+  - **替代放松方式**: 用音乐、泡澡、阅读等替代食物作为压力出口
+  - **允许例外**: 每周1-2次放松进食，避免剥夺-反弹循环
+  - **记录触发因素**: 记录每次过量进食时的情绪状态，找到个人的情绪性饮食触发模式
+
+### 长期OMAD适应策略
+- 逐步过渡而非一步到位——让身体慢慢适应更严格的限制
+- 无论何种饮食方式，营养均衡是底线（蛋白质、健康脂肪、碳水、维生素矿物质）
+- 倾听身体信号，不适时调整方案
+- 减重是过程而非目标——耐心和持续比速度更重要
+
+## 关键概念
+
+- **情绪性进食（Emotional Eating）**: 以食物应对情绪需求而非生理饥饿，是限制性饮食中常见的补偿行为
+- **限制-反弹循环（Restriction-Rebound Cycle）**: 过度限制导致更强的食物渴望和晚间暴食的心理机制
+- **正念进食（Mindful Eating）**: 将注意力完全集中于进食过程，觉察感官体验和身体信号
+- **触发因素识别（Trigger Identification）**: 通过记录情绪-进食的关联模式，定位个人情绪性饮食的具体触发场景
+- **渐进式饮食适应**: 逐步收紧饮食窗口，让身体和心理同步适应，避免一次性剧烈改变带来的反弹
+
+## 关联实体
+
+- [[Fogg行为模型]] — 渐进式适应和小步改变的理念与 B=MAP 框架中的"能力优先设计"一致
+- [[BJ Fogg]] — 微习惯方法可应用于正念进食和饮食记录等新习惯的建立
+- [[Huberman Lab]] — 血糖调节和压力管理的神经科学机制与 Huberman 讨论的进食与昼夜节律内容相关
+
+## 相关页面
+
+- [[减重心理学与情绪饮食]] — 本文是情绪性饮食干预策略的核心实践记录
+- [[减重与健康]] — OMAD饮食方案、营养均衡和渐进适应属于减重与健康的实践范畴
+- [[科学健康优化]] — 血糖管理、压力应对和正念进食是系统化健康优化的组成部分
+- [[睡眠与神经科学]] — 晚间过量进食和高碳水晚餐对睡眠质量的影响涉及神经科学机制

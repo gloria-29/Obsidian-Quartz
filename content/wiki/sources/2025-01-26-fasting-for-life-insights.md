@@ -34,3 +34,7 @@ A comprehensive exploration of the [[Fasting for Life Podcast]], covering the fu
 - [[OMAD Emotional Eating Analysis]]
 - [[Huberman Lab Essentials: Lose Fat With Science-Based Tools]]
 - [[Human System Optimization Guide]]
+
+## 延伸阅读
+
+- 更多相关内容可参考相关主题页面。

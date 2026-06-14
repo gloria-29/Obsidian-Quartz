@@ -27,3 +27,7 @@ Dr. Mark Brackett, professor of psychology at Yale University and director of th
 ## Related Pages
 - [[Emotional Intelligence: Core Skills and Applications]]
 - [[Embracing Emotional Intensity as a Superpower]]
+
+## 延伸阅读
+
+- 更多相关内容可参考相关主题页面。

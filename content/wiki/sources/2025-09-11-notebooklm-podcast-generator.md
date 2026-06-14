@@ -1,26 +1,56 @@
 ---
-tags: [NotebookLM, AI-tools, podcast, content-creation]
+tags: [NotebookLM, AI播客, 内容创作, Gemini, 提示词工程, 播客脚本]
 created: 2025-09-11
-updated: 2025-09-11
-sources: []
+updated: 2026-06-13
+sources:
+  - "NotebookLM Podcast Script Generator 系统提示词"
 ---
 
-# NotebookLM Podcast Script Generator
+# NotebookLM 播客脚本生成器
 
-## Summary
-A system prompt for Gemini that transforms academic analysis into structured podcast modules optimized for [[NotebookLM]]. Uses 3-act narrative structure, automatic mode selection (Deep Dive/Critique/Debate), and strict 5,000-character per module limits.
+## 概要
 
-## Core Ideas
-1. **Dual-frame output**: Technical metadata (Frame 1) + clean implementation content (Frame 2) for direct copy/paste
-2. **Three modes auto-selected**: Deep Dive for theoretical material, Critique for flawed arguments, Debate for controversial topics
-3. **Narrative as conversion engine**: Transforms dense analysis into engaging educational content through dramatic structure and thematic coherence (central leitmotiv)
+一个面向 [[Gemini]] 的系统提示词，将学术分析内容转化为适配 [[NotebookLM]] 播客功能的结构化脚本模块。采用三幕叙事结构，根据内容类型自动选择模式（深度探索/批评/辩论），每个模块严格控制在 5000 字符以内。核心设计思路是将密集的分析内容转化为引人入胜的教育性播客。
 
-## Key Concepts
-- **Contextual redundancy**: Each generation is isolated; modules must recap previous context
-- **Adaptive density control**: Maximum 3 conceptual points per module, 1-2 essential sentences each
-- **Cross-disciplinary connections**: Enriches understanding beyond source material
+## 核心内容
 
-## Related Pages
-- [[NotebookLM]] - Google's AI research and podcast tool
-- [[Gemini]] - Google's LLM powering the generator
-- [[AI Podcast Production]] - Broader category of AI-generated audio content
+### 双框架输出设计
+- **框架 1（技术元数据）**：模块编号、模式类型、预估时长、目标受众
+- **框架 2（实现内容）**：可直接复制粘贴的播客对话脚本
+- 两个框架分离，便于用户按需使用
+
+### 三种自动选择模式
+- **Deep Dive（深度探索）**：适用于理论性材料，层层深入展开
+- **Critique（批评模式）**：适用于有缺陷的论点，逐点分析
+- **Debate（辩论模式）**：适用于争议性话题，正反方对辩
+- 系统根据输入内容自动判断最适合的模式
+
+### 叙事即转化引擎
+- 通过戏剧性结构和主题连贯性（中心主题 leitmotiv）将密集分析转化为可听性强的内容
+- 三幕结构：引入悬念 → 展开论证 → 收束升华
+- 注重跨学科连接，在原文基础上丰富理解维度
+
+### 技术约束
+- **上下文冗余**：每次生成相互独立，模块需回顾之前的关键上下文
+- **自适应密度控制**：每模块最多 3 个概念要点，每个要点 1-2 句核心表述
+- 每模块 5000 字符硬上限，确保 NotebookLM 播客功能的最佳处理效果
+
+## 关键概念
+
+- **Leitmotiv（中心主题）**：贯穿整个播客脚本的核心线索，保证多模块之间的叙事连贯性
+- **上下文隔离**：每个模块独立生成但需要自行回顾上下文，确保单独播放也能理解
+- **模式自选机制**：根据输入内容特征自动匹配最合适的分析模式，无需用户手动选择
+- **自适应密度**：根据内容复杂度动态调整信息密度，避免过载或过于稀疏
+
+## 关联实体
+
+- [[NotebookLM]] — Google 的 AI 研究与播客生成工具，脚本的目标平台
+- [[Gemini]] — Google 的大语言模型，作为脚本生成的底层引擎
+- [[DeepSeek]] — 可替代 Gemini 执行类似脚本生成任务的模型
+
+## 相关页面
+
+- [[播客与内容消费方法]] — 播客制作方法论与内容消费策略
+- [[AI工具与应用-扩展]] — AI 在内容创作中的应用拓展
+- [[写作与内容创作]] — 内容创作的整体方法论
+- [[AI提示词工程]] — 提示词设计原则与优化技巧

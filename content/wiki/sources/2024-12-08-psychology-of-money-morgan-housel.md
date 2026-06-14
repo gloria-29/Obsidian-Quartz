@@ -1,31 +1,48 @@
 ---
-tags: [finance, psychology, investing]
+tags: [金融心理学, 投资, Morgan Housel, 复利, 金钱脚本]
 created: 2024-12-08
-updated: 2024-12-08
-sources: [The Psychology of Money by Morgan Housel]
+updated: 2026-06-13
+sources: [raw/notes/2024-12-08-Understanding-the-Psychology-of-Money-Key-Insights-from-Morgan-Housel.md]
 ---
 
-# Psychology of Money: Morgan Housel Insights
+# 金钱心理学：Morgan Housel 深度解读
 
-## Summary
-A deep dive into Morgan Housel's "The Psychology of Money," which argues that personal finance is more about psychology than mathematics. Key themes include the relativity of wealth, comparison traps amplified by social media, the power of compound interest requiring patience, and the "illusion of control" in markets. Housel emphasizes understanding one's "money scripts"—unconscious beliefs about money shaped by upbringing and culture—and how fear of wealth can be as limiting as fear of poverty. The FIRE movement (Financial Independence, Retire Early) is examined critically.
+## 概要
 
-## Core Ideas
-- **Money does not equal happiness**: surveys show only a small percentage of millionaires report being happy
-- **Wealth is relative**: constant social comparison, especially via social media, creates a hedonic treadmill
-- **Compound interest requires patience**: $1,000 at 7% becomes ~$7,600 over 30 years—the key is time, not timing
-- **Illusion of control**: markets are influenced by unpredictable events; humility in financial decisions is essential
-- **Money scripts**: unconscious beliefs about money drive behavior—identify them to make intentional choices
+深度解读 Morgan Housel 的《金钱心理学》，核心论点是个人理财更多关乎心理学而非数学。探讨财富的相对性、社交媒体放大的比较陷阱、复利的耐心力量、市场的"控制幻觉"，以及"金钱脚本"——受成长经历和文化塑造的无意识金钱信念如何左右财务决策。
 
-## Key Concepts
-- John Bogle and low-cost index fund investing
-- Long-term thinking vs. market timing
-- Greed, fear, and herd mentality as emotional investing traps
-- Money scripts: scarcity mindset, risk-taking vs. frugality scripts
-- [[FIRE movement]]: financial independence with potential identity/fulfillment risks
-- Defining financial success on your own terms
+## 核心内容
 
-## Related Pages
-- [[Exploring Personal Finance Insights from My Savings Life]]
-- [[The Twelve Week Year]] – goal-setting framework
-- [[Emotional Intelligence]] – managing financial emotions
+### 核心洞见
+- 钱不等于幸福：调查显示仅少数百万富翁表示快乐
+- 财富是相对的：社交媒体放大社会比较，产生享乐跑步机效应
+- 复利需要耐心：1000 美元以 7% 年化 30 年增长至约 7600 美元
+- 控制幻觉：市场受不可预测事件影响，谦逊是财务决策的必要品质
+
+### 金钱脚本理论
+- **稀缺脚本**：认为努力工作和节俭是唯一途径，可能错过重大机会
+- **冒险脚本**：通过大胆冒险追求大胜利，"非成即败"心态，风险极高
+- **FIRE 脚本**：追求财务独立和提前退休，可能导致身份失落感
+- 解码方法：反思最早金钱记忆、最大财务恐惧、最大财务愿望、消费习惯模式
+
+### 情绪陷阱
+- 贪婪和恐惧是投资决策的两大经典干扰
+- 从众心理（herd mentality）导致跟风投资，催生泡沫和崩盘
+- 约翰·博格尔和低成本指数基金投资是长期策略的典范
+
+## 关键概念
+
+- **金钱脚本** — 受个人经历和文化背景影响的无意识金钱信念体系
+- **控制幻觉** — 人们倾向于高估自己对市场走向的掌控能力
+- **FIRE 运动** — Financial Independence, Retire Early，财务独立提前退休运动
+- **享乐跑步机** — 收入增长但幸福感不随之增长的心理现象
+
+## 关联实体
+
+- [[Morgan Housel]] — 《金钱心理学》作者
+- [[约翰·博格尔]] — 先锋基金创始人，低成本指数基金倡导者
+
+## 相关页面
+
+- [[个人藏书清单深度剖析与感悟]] — 藏书中经济学与投资类书籍分析
+- [[驱动力-纵横四海]] — 内在动机与外在动机的关系

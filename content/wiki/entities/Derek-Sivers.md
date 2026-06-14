@@ -1,20 +1,46 @@
 ---
 type: entity
-aliases: [Derek Sivers, CD Baby]
-tags: [创业, 哲学, 写作]
+aliases: [Derek Sivers, CD Baby, 西弗斯]
+tags: [创业, 哲学, 写作, 独立开发, 音乐]
 ---
 
 # Derek Sivers
 
-哲学家企业家。CD Baby创始人。Tim Ferriss Show常客。
+## 概述
 
-## 核心理念
-- 《Anything You Want》：创业哲学
-- "Everything must be said again"——孟德尔思想被忽视34年
-- 博客/now页面理念
-- 最伟大的一年
+Derek Sivers 是美国程序员、创业家和哲学家，CD Baby 创始人。他通过自己的博客和书籍分享独特的创业哲学和人生思考，是 Tim Ferriss Show 的常客。Sivers 以极度简练、有力的表达风格著称——"Everything must be said again" 是他的核心理念之一，强调在信息过载的时代中思考最根本的问题。
+
+## 背景与贡献
+
+### 核心思想
+- **"Everything must be said again"**：重要的真理需要被反复重述，因为每一代人和每一个角度都需要重新发现它
+- **/now 页面理念**：记录"现在正在做什么"的公开页面，倡导透明和活在当下
+- **"最伟大的一年"**：不要等待完美时机，现在就可以是你最伟大的一年
+- **创业哲学**：CD Baby 从爱好到 2200 万美元公司的真实经历证明：做你热爱的事，财富是副产品
+- **思维模型**：逆向思考、反共识、以终为始的决策框架
+- **简洁写作**：用最少的词表达最完整的想法，每句话都要提供价值
+
+### 代表著作
+- **《Anything You Want》**：CD Baby 创业经验浓缩的十堂课
+- **sive.rs 个人网站**：收录了他多年来的博客文章、书籍和创作
+- **Tim Ferriss Show 多次受访**：分享创业哲学和个人成长经验
+- **音乐人创业指南**：帮助独立音乐人了解音乐产业
+
+## 关键概念
+
+- **CD Baby**：在线独立音乐分销平台，从爱好项目发展到 2200 万美元的公司
+- **/now 页面**：公开记录当前状态的生活方式设计概念
+- **逆向行动**：当所有人往一个方向走时，考虑相反的方向
+- **简单即力量**：在复杂的世界中保持简洁的思维和表达
+
+## 关联实体
+
+- [[Tim Ferriss]] — Tim Ferriss Show 多次采访 Sivers，二人理念相通
+- [[DAN-KOE]] — 同为创造一人企业和独立创作的思想领袖
+- [[Alexey-Guzey]] — 同为倡导写博客的独立博客作者
+- [[独立开发与营销]] — Sivers 的创业哲学和独立开发理念
 
 ## 相关素材
-- [[2024-06-10-derek-sivers-blog]] — 博客
-- [[2024-12-17-derek-sivers]] — Tim Ferriss访谈
-- [[2025-01-27-anything-you-want]] — Anything You Want笔记
+
+- [[cubox-2024-06]] — Derek Sivers 博客书签收藏
+- [[2025-08-19-自由画布-语言与思想学习指南]] — 《Anything You Want》学习指南

@@ -27,3 +27,7 @@ A personal health support document addressing OMAD (One Meal A Day) challenges: 
 - [[OMAD Diet Challenge Reflection]]
 - [[Semaglutide and Calorie Control]]
 - [[Fasting for Life Podcast Insights]]
+
+## 延伸阅读
+
+- 更多相关内容可参考相关主题页面。

@@ -1,35 +1,44 @@
 ---
+title: "BananaPro提示词-数字小镇可视化屏幕使用时长"
 type: source
-title: "AI-weight-loss-Reddit之一"
-date: 2025-07-09
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+date: 2025-12-12
+source: web
+source_url: https://dinox-new.5984f2df14671be265c2d2fc0e21b3f8.r2.cloudflarestorage.com/dinox_note/assets/019126f0-2672-7286-b640-feeb1616b906/images/019b1261-7335-75d5-8645-cc94d6146474.jpeg
+topics: ["工具", "生活"]
 ---
 
-# AI-weight-loss-Reddit之一
+# BananaPro提示词-数字小镇可视化屏幕使用时长
 
-> 笔记 ID: 0197ef46-c3f4-797c-a41e-0907e9fe1a5f
-
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-07-09
-
-
-
+## 概要
+用数字小镇展示你的屏幕使用时长，这玩意上限太高了，每天都能给我惊喜！ 风格会跟随应用使用类型而变化，会有根据今天的应用使用情况带来的评语。 将提示词和屏幕使用截图发给 Nano Banana Pro 就行。 提示词是在太长了，放到最后一张图片里面了。 &gt; 来自：https://mp.weixin.qq.com/s/hvo\eJ\ZHqZPwDQsjqT4zQ
 
 ## 核心内容
 
-笔记 ID: 0197ef46-c3f4-797c-a41e-0907e9fe1a5f
+### 可视化你的数字生活 2：屏幕使用时长
+- 用数字小镇展示你的屏幕使用时长，这玩意上限太高了，每天都能给我惊喜！
+- 风格会跟随应用使用类型而变化，会有根据今天的应用使用情况带来的评语。
+- 将提示词和屏幕使用截图发给 Nano Banana Pro 就行。
+- 提示词是在太长了，放到最后一张图片里面了。
+- &gt; 来自：https://mp.weixin.qq.com/s/hvo\eJ\ZHqZPwDQsjqT4zQ
+
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+## 关键概念
 
 ## 关联实体
 
-（待分析后补充）
-
 ## 相关页面
-
-（待分析后补充）

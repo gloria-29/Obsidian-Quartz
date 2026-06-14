@@ -1,14 +1,47 @@
 ---
-title: PDFMathTranslate AI PDF翻译工具
+title: PDF Math Translate
 type: source
 date: 2025-08-13
 source: WuCai
-topics: [AI工具, 翻译工具]
-entities: [PDFMathTranslate, BabelDOC, 沉浸式翻译]
+topics: [AI, PDF, 翻译]
+entities: []
 ---
 
-# PDFMathTranslate — AI PDF 翻译
+# PDF Math Translate
 
-开源 PDF 科学论文翻译工具，基于 AI 完整保留排版。提供命令行/WebUI/Docker/Zotero 插件等多种使用方式。
+## 概要
 
-底层使用 BabelDOC 后端 + PyMuPDF PDF 库 + DocLayout-YOLO 布局解析。免费在线版 (pdf2zh.com) 和沉浸式翻译 BabelDOC（每月 1000 免费页）。
+PDF Math Translate 是一款支持公式和数学符号翻译的 PDF 翻译工具，专门解决学术 PDF 中数学内容的翻译难题。
+
+## 核心内容
+
+### 功能特点
+
+- 支持 PDF 全文翻译，保留原始排版
+- 对数学公式和科学符号有专门的识别和翻译处理
+- 保持公式格式和结构的完整性
+
+### 使用场景
+
+- 阅读外文学术论文
+- 理解含有复杂公式的技术文档
+- 学术研究和学习辅助
+
+### 技术实现
+
+- 识别 PDF 中的数学公式区域
+- 区分文本和公式，分别处理
+- 翻译文本内容的同时保留公式
+
+## 关键概念
+
+- **PDF 翻译** — 将 PDF 文档内容从一种语言翻译为另一种语言
+- **数学公式识别** — 识别 PDF 中的数学公式并保持其格式不变
+
+## 关联实体
+
+- [[]]
+
+## 相关页面
+
+- [[沉浸式翻译工具]]

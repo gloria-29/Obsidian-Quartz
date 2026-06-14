@@ -1,25 +1,53 @@
 ---
-tags: [OMAD, keto, intermittent-fasting, health, diet, Sten-Ekberg]
+tags: [OMAD, 酮饮食, 间歇性禁食, 减重, 胰岛素, Sten-Ekberg]
 created: 2025-08-09
-updated: 2025-08-09
-sources: "[https://youtu.be/kXiwC3UhDHg]"
+updated: 2026-06-13
+sources: [https://youtu.be/kXiwC3UhDHg]
 ---
 
-# What to Eat on One Meal a Day (OMAD)
+# OMAD一日一餐：吃什么（Sten Ekberg 7天计划）
 
-## Summary
-Dr. Sten Ekberg provides a 7-day keto OMAD meal plan (1300-1700 cal). Core thesis: OMAD lowers [[insulin]] (the key driver of weight gain) by reducing both carb intake and eating frequency. Gradual transition is essential.
+## 概要
 
-## Core Ideas
-1. **Insulin is the master hormone**: Weight gain, type 2 diabetes, and ~90% of degenerative diseases stem from insulin resistance. OMAD attacks this on two fronts: fewer eating events and low-carb meals.
-2. **Monitor insulin, not just glucose**: Fasting glucose stays normal for years while insulin rises 3-7x to compensate. The 7-day menu uses fat:protein:carb ratios around 75:20:5.
+Sten Ekberg 博士提供了一份 7 天酮饮食 OMAD（一日一餐）膳食计划，每日热量 1300-1700 大卡，脂肪:蛋白质:碳水比例约 75:20:5。核心论点：[[GLP-1|GLP-1 药物]]和 OMAD 从不同路径攻击同一目标——降低胰岛素（体重增加的关键驱动激素），但 OMAD 通过减少进食频率和碳水摄入双管齐下，属于零药物成本的生活方式干预。
 
-## Key Concepts
-- Ketogenic OMAD meals: Sausage veggie scramble, burger salad, fajitas (no tortilla), lamb chops, wings, keto pizza on low-carb tortilla
-- Gradual transition: reduce carbs ~10% weekly, shrink eating window progressively (16:8 > 8:6 > 4:20 > OMAD)
+## 核心内容
 
-## Related Pages
-- [[OMAD]] - One Meal a Day comprehensive guide
-- [[GLP-1]] - Alternative weight management approach
-- [[Keto Diet]] - Ketogenic diet principles
-- [[Intermittent Fasting]] - Broader IF family
+### 胰岛素是核心激素
+- 体重增加、2型糖尿病和约 90% 的退行性疾病都源于胰岛素抵抗
+- 监测胰岛素比监测血糖更重要：空腹血糖可在胰岛素升高 3-7 倍的多年间保持正常
+- OMAD 从两个维度降低胰岛素：减少进食事件（一天只触发一次胰岛素分泌）+ 低碳水饮食
+
+### 7天酮饮食 OMAD 食谱示例
+- 香肠蔬菜炒蛋、汉堡沙拉、无饼法士达、羊排、鸡翅、低碳水饼底披萨
+- 核心原则：高脂肪、适量蛋白质、极低碳水（每日 20-30g 以下）
+
+### 渐进式过渡策略（关键）
+- 不建议直接跳到 OMAD，应逐步过渡以避免身体应激反应
+- 推荐路径：16:8 间歇性禁食 → 18:6 → 20:4 → OMAD
+- 碳水摄入每周减少约 10%，让身体逐步适应脂肪供能模式
+- 过渡期可能出现酮流感（头痛、疲劳），属正常适应反应
+
+### OMAD 与 GLP-1 的比较
+- OMAD 通过生活方式改变降低胰岛素，零药物成本但需要较强自律
+- [[GLP-1]] 药物通过药理机制直接作用，效果更确定但有副作用和费用
+- 两者可以互补：先用 GLP-1 启动减重，再过渡到 OMAD 维持
+
+## 关键概念
+
+- **胰岛素抵抗（Insulin Resistance）**: 细胞对胰岛素反应减弱，导致胰腺分泌更多胰岛素，是肥胖和代谢疾病的核心机制
+- **酮饮食（Ketogenic Diet）**: 极低碳水、高脂肪饮食模式，迫使身体从燃烧糖转为燃烧脂肪（产酮）
+- **OMAD（One Meal A Day）**: 一日一餐的间歇性禁食模式，每天只在一小时内进食
+- **渐进式过渡**: 从常规三餐逐步缩小进食窗口，避免身体剧烈应激
+
+## 关联实体
+
+- [[GLP-1]] — 与 OMAD 并行的药物减重路径，目标同为降低胰岛素驱动的体重增加
+- [[5+2轻断食]] — 间歇性禁食家族的另一成员，与 OMAD 同属 IF 体系
+- [[Huberman Lab]] — Huberman 也在多期节目中深入讨论过间歇性禁食与胰岛素的关系
+
+## 相关页面
+
+- [[减重与健康]] — OMAD 作为一种饮食干预策略，是减重方法论的重要组成部分
+- [[减重心理学与情绪饮食]] — OMAD 的最大挑战往往不是生理而是心理——进食窗口缩小时的情绪管理
+- [[The Daniel Plan]] — 信仰驱动的健康生活方式框架，可与 OMAD 互补

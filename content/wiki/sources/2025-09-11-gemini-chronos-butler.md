@@ -1,27 +1,66 @@
 ---
-tags: [Gemini, time-management, AI-agent, productivity, Chronos-Butler]
+tags: [Gemini, 时间管理, AI-Agent, 生产力, Chronos-Butler, 能量模型, 配额系统]
 created: 2025-09-11
-updated: 2025-09-11
-sources: []
+updated: 2026-06-13
+sources:
+  - raw/notes/2025-09-11-Gemini定制Agent：打造个人时序管家.md
+  - raw/notes/2025-09-11-Gemini定制Agent：时序管理实践.md
 ---
 
-# Gemini Custom Agent: Chronos Butler Time Manager
+# Gemini 自定义 Agent：Chronos Butler 时序管家
 
-## Summary
-A personalized time management system built as a [[Gemini]] custom Gem. Uses four life domains (Working, Research, Growth, Chores) with 4-hour quotas each (16h total). The agent parses natural language commands, auto-schedules tasks based on energy levels, and provides visual quota tracking.
+## 概要
 
-## Core Ideas
-1. **Command protocol**: `add [task]` auto-parses duration/category (e.g., "1hG swimming"), missing info triggers approval request. `fin [task]` supports fuzzy matching. `schedule HHMM-HHMM` handles cross-day timeboxing.
-2. **Energy-aware scheduling**: High-energy slots for Research and difficult Growth/Work. Medium for routine Work/Growth. Low-energy (post-meal, late night) for Chores/mechanical Work. Auto-inserts 5-10min breaks; mandatory break after 90min high-focus.
-3. **Quota visualization**: After each add/del/fin, outputs a dashboard showing per-category: completed time, planned time, and gap to 4-hour target. Enables real-time "which domain needs attention" decisions.
+基于 [[Gemini]] 的自定义 Gem（定制对话），构建了一个名为"时序管家（Chronos Butler）"的个人时间管理 Agent。系统将一天划分为四大领域——Working（挣钱糊口）、Research（科研）、Growth（成长）、Chores（琐事），每类配额 4 小时（总计 16 小时）。通过自然语言指令解析、精力模型调度和配额可视化，实现半自动化日常运营。核心亮点是在时间不足时自动"踢掉"低优先级任务，把日常最艰难的取舍提前自动化。
 
-## Key Concepts
-- **Task auto-rejection**: When time is insufficient, agent "kicks out" lower priority tasks, making the hard tradeoff automatically
-- **Human-in-the-loop**: Agent estimates, human approves before committing - semi-automated with oversight
-- **Limitations**: Day-scope only (no cross-day dependencies, hard deadlines, task dependencies); session-based memory
+## 核心内容
 
-## Related Pages
-- [[Gemini]] - Google's AI platform
-- [[GTD Time Management]]
-- [[Cal Newport]] - Time blocking philosophy
-- [[Deep Work]] - Focused work methodology
+### 四维配额体系
+- **Working (W)**: 挣钱糊口类任务（写公众号、整理票据、发工资等）
+- **Research (R)**: 科研与深度学习（回信、读论文、试用技术工具）
+- **Growth (G)**: 个人成长（游泳、学习新技能、OCR 相关研究）
+- **Chores (C)**: 琐事与生活维护（吃饭、回家、建立系统）
+- 每类目标 4 小时，总计 16 小时；报告输出"已完成 | 已计划 | 目标差额"三维统计
+
+### 指令协议（人机接口设计）
+- `add [任务描述]`：自动解析时长与分类（如"1hG 游泳"），缺失信息时 Agent 预估并请求人类批准
+- `del [任务描述]`：删除待办
+- `fin [任务描述]`：标记完成（支持模糊匹配，如"fin 电影"）
+- `schedule HHMM-HHMM`：时间盒调度（24 小时制，跨日自动识别）
+
+### 精力模型调度引擎
+- **高精力时段**：优先安排 Research 和高难度的 Growth/Working
+- **中等精力**：常规 Working 和 Growth
+- **低精力（饭后、深夜）**：Chores 或机械性 Working
+- 自动插入 5-10 分钟休息；连续高专注超过 90 分钟后强制短休
+- 时间不足时自动"踢掉"低优先级任务——把日常最艰难的取舍提前自动化
+
+### 半自动确认机制
+- Agent 负责猜测与估算，人类进行 yes/no 决策
+- 减少错配后果，同时把"估算成本"外包给模型
+- 每次操作后输出完整日报，包括已完成、待完成、四维统计与目标差额
+
+### 产品化分析
+- **优势**：低摩擦（自然语言 + 模糊匹配）、强反馈（配额可视化）、智能取舍（时间不足自动踢出）
+- **劣势**：只处理当日时间盒，无跨日依赖/硬截止建模；记忆持久性取决于会话状态
+- **适用人群**：自主职业者、研究型/创作型工作者、需要多线切换的人
+
+## 关键概念
+
+- **能量-任务难度匹配**: 把常见的时间分配直觉（时间盒 + 生理节律类型）固化成可执行的算法规则
+- **配额可视化**: 四条"资金池"式管理，强迫避免头重脚轻，随时知道哪个维度需要补缺
+- **智能取舍**: 时间不足时自动踢掉低优先级任务，逼近可行解，降低过载焦虑
+- **半自动协作**: 模型估算 + 人类审批的闭环，平衡自动化效率与人类判断
+
+## 关联实体
+
+- [[Gemini]] — 构建时序管家的 AI 平台（自定义 Gem 功能）
+- [[Cal Newport]] — 时间盒调度理念与 Deep Work 精力管理思想的实践延伸
+- [[效率与自我管理]] — 四维配额体系是个人效率管理的结构化方案
+
+## 相关页面
+
+- [[效率与自我管理]] — 时序管家的核心方法论——配额、精力模型、取舍机制
+- [[个人成长与人生规划]] — 四维配额体系对平衡工作、科研、成长、生活的整体规划意义
+- [[心理与情感]] — 精力模型与人的生理节律的匹配，关乎自我认知与能量管理
+- [[PAI]] — 时间管理 Agent 的设计理念与 PAI 系统自动化思路的呼应

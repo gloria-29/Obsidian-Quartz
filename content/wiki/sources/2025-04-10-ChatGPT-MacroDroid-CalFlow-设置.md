@@ -1,35 +1,52 @@
 ---
-type: source
-title: "Google账号注册及FAQ"
-date: 2025-12-01
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+tags: [MacroDroid, CalFlow, Android自动化, 日程管理, ChatGPT]
+created: 2025-04-10
+updated: 2026-06-13
+sources: [raw/notes/2025-04-10-ChatGPT-MacroDroid-CalFlow-设置.md]
 ---
 
-# Google账号注册及FAQ
+# 用 MacroDroid 模拟 iOS CalFlow 日历提醒
 
-> 笔记 ID: 019ad7d8-a672-7edc-ae91-40e76961017c
-
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-12-01
-
-
-
+## 概要
+在 Android 上使用 MacroDroid 自动化工具模拟 iOS 端 CalFlow 应用的日历提醒功能。CalFlow 的核心体验是「日程开始前自动推送提醒通知 + 震动」，MacroDroid 通过触发器和动作组合可以完美复现这一流程。配置过程通过 ChatGPT 对话完成，包含完整的 XML 宏文件和分步设置指南。
 
 ## 核心内容
 
-笔记 ID: 019ad7d8-a672-7edc-ae91-40e76961017c
+### CalFlow 是什么
+- CalFlow 是一款 iOS 端的日历助手应用，以简洁的日程提醒体验著称
+- 核心功能：在日程事件开始前自动推送通知，配合震动提醒用户
+- 界面设计简洁，专注于「即将到来的日程」这一单一场景
+- Android 端没有原生对应应用，需要用自动化工具模拟
+
+### MacroDroid 配置步骤
+- **安装 MacroDroid**：从 Google Play 下载，免费版支持有限数量的宏
+- **创建新宏**：点击「添加宏」，为宏命名（如「CalFlow 提醒」）
+- **设置触发器**：选择「日历事件」→ 设置标题过滤为 "CalFlow" → 时间偏移设为 -300 秒（提前 5 分钟触发）
+- **添加动作一**：选择「通知」→ 自定义通知标题和内容，显示事件名称和时间
+- **添加动作二**：选择「振动」→ 设置振动模式（短振两次效果最佳）
+- **测试运行**：创建一个 5 分钟后的测试事件，验证触发是否正常
+
+### XML 宏文件说明
+- MacroDroid 支持导入/导出 XML 格式的宏配置文件
+- 导出的 XML 包含触发器条件、动作序列、约束条件等完整配置
+- 可以通过分享功能将配置发送到其他设备直接导入使用
+
+### 优化建议
+- 标题过滤可以改为关键词匹配（如包含「会议」或「课」的事件）
+- 如果需要不同类型的提醒，可以创建多个宏分别配置
+- MacroDroid Pro 版支持无限制宏数量和更复杂的条件逻辑
+
+## 关键概念
+- **MacroDroid**：Android 平台的自动化工具，类似 Tasker 但界面更友好，适合非技术用户
+- **日历触发器（Calendar Trigger）**：当检测到日历中有匹配事件时自动启动宏
+- **时间偏移（Time Offset）**：相对于事件开始时间的提前或延后触发时间，负数表示提前
+- **宏（Macro）**：由触发器、动作和约束条件组成的自动化规则单元
 
 ## 关联实体
-
-（待分析后补充）
+- [[效率工具]] — MacroDroid 是 Android 端重要的效率工具之一
+- [[Android自动化]] — 本配置是 Android 自动化的典型应用场景
+- [[MacroDroid]] — MacroDroid 平台的详细介绍和进阶用法
 
 ## 相关页面
-
-（待分析后补充）
+- [[日程管理方法论]] — CalFlow 背后的时间管理理念
+- [[iOS 与 Android 功能对比]] — 跨平台工具替代方案汇总

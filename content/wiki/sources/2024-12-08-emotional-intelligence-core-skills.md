@@ -1,32 +1,66 @@
 ---
-tags: [psychology, emotional-intelligence, self-awareness]
+tags: [psychology, emotional-intelligence, self-awareness, relationships]
 created: 2024-12-08
-updated: 2024-12-08
-sources: [Emotional Intelligence book]
+updated: 2026-06-13
+sources:
+  - "Emotional Intelligence (book) — deep dive podcast transcript"
+  - "Dr. Marc Brackett — RULER框架 (Huberman Lab)"
 ---
 
 # Emotional Intelligence: Core Skills and Applications
 
-## Summary
-A deep dive into Emotional Intelligence (EQ) based on the foundational book on the topic. Research shows people with average IQ outperform those with high IQ 70% of the time, pointing to EQ as the differentiating factor. The framework centers on four core skills: self-awareness, self-management, social awareness, and relationship management. Only 36% of people can identify their emotions as they happen. EQ scores are declining in younger generations, while Chinese executives score higher than American counterparts due to cultural emphasis on emotional control. Developing EQ takes 3-6 months of consistent practice, leveraging neuroplasticity.
+## 概要
 
-## Core Ideas
-- **EQ outperforms IQ in predicting success**: people with average IQ beat high-IQ peers 70% of the time
-- **Four pillars of EQ**: Self-awareness (recognizing own emotions), Self-management (regulating responses), Social awareness (reading others), Relationship management (building connections)
-- **Emotions serve a purpose**: stop judging feelings as good/bad; anger may signal violated boundaries, anxiety may indicate threats
-- **Body as emotional GPS**: physical sensations (tight chest, stomach knots) provide real-time emotional feedback
-- **EQ is a set of learnable skills**, not a fixed trait—neuroplasticity enables growth
+基于情商（EQ）经典著作的深度解读。研究显示，普通智商的人在70%的情况下表现优于高智商者，说明EQ才是关键区分因素。框架围绕四项核心技能展开：自我意识、自我管理、社会意识和关系管理。仅36%的人能在情绪发生时识别它。年轻一代的EQ得分呈下降趋势，而中国高管的EQ得分高于美国同行，源于文化中对情绪控制的重视。EQ是可通过练习习得的技能组，神经可塑性使其具备可塑性，持续练习3-6个月可见显著改善。
 
-## Key Concepts
-- RULER framework (from Dr. Mark Brackett): Recognize, Understand, Label, Express, Regulate emotions
-- Emotional granularity: distinguishing anxiety vs. stress vs. fear vs. overwhelm
-- [[Neuroplasticity]]: brain rewiring through EQ practice
-- EQ decline in younger generations linked to economic stress and technology overload
-- Cultural factors in EQ development
-- Relationship management as "final boss level" of EQ
+## 核心内容
 
-## Related Pages
-- [[Exploring Emotional Intelligence with Dr. Mark Brackett]]
-- [[Embracing Emotional Intensity as a Superpower]]
-- [[Neuroplasticity]]
-- [[Deep Work]] – focus and emotional regulation
+### EQ超越IQ预测成功
+- 普通智商者在70%的情况下胜过高智商者
+- EQ是被忽视的成功预测因子
+
+### 四大核心技能
+1. **自我意识（Self-awareness）**：识别自身情绪及其触发因素——仅36%的人能做到实时识别
+2. **自我管理（Self-management）**：不是压抑情绪，而是作为情绪的"指挥家"选择如何回应——深呼吸、列出情绪vs理性清单、公开承诺、充足睡眠
+3. **社会意识（Social-awareness）**：读懂他人的情绪暗流——注意肢体语言、会议中观察人而非记笔记、记住他人名字
+4. **关系管理（Relationship-management）**：EQ的"终极关卡"——超越表面寒暄的真诚连接、冲突中暂停反应、诚实与同理心的平衡
+
+### RULER框架（Dr. Marc Brackett）
+- **Recognize**：识别自己和他人的情绪信号
+- **Understand**：理解情绪产生的原因和触发因素
+- **Label**：精确标注情绪——情绪颗粒度越高，调节能力越强
+- **Express**：在不同情境中恰当地表达情绪
+- **Regulate**：选择策略管理情绪反应，而非压制
+
+### 情绪不是敌人
+- 愤怒可能意味着边界被侵犯，焦虑可能在警告威胁
+- 身体是情绪的GPS：胸口发紧、胃部打结都是实时反馈
+- 停止将情绪评判为"好"或"坏"，转而倾听它们传递的信息
+
+### EQ下降趋势与文化差异
+- 年轻一代EQ下降，可能与经济压力、信息过载及emoji替代面对面交流有关
+- 中国高管EQ得分高于美国高管——文化中强调情绪控制与和谐
+- 内向者与外向者在情绪处理上路径不同，但均可通过练习提升EQ
+
+## 关键概念
+
+- **RULER框架**（Dr. Marc Brackett）：Recognize → Understand → Label → Express → Regulate
+- **情绪颗粒度**：区分焦虑、压力、恐惧和不堪重负之间的差异
+- **神经可塑性**：通过EQ练习实现大脑重塑
+- **关系管理**作为EQ的"终极关卡"
+- **3-6个月**持续练习才能看到持久改变
+- **身体觉察**：将身体感受作为情绪识别的第一信号
+
+## 关联实体
+
+- [[Cal Newport]] — Deep Work与情绪调节能力密切相关
+- [[BJ Fogg]] — 微习惯方法可应用于EQ技能的渐进式培养
+- [[David Allen]] — GTD的清空大脑理念与情绪管理的释放策略相通
+
+## 相关页面
+
+- [[心理与情感]] — EQ作为情感健康的核心能力
+- [[效率与自我管理]] — 自我管理是EQ四大支柱之一
+- [[个人生产力与时间管理]] — 情绪调节直接影响生产力
+- [[3x3-App]] — 目标达成系统与EQ发展的时间框架可以结合
+- [[生活管理与SOP]] — 情绪调节可建立日常练习SOP

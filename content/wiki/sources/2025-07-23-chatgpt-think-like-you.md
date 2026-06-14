@@ -1,22 +1,46 @@
 ---
-tags: [ChatGPT, 提示词工程, 自定义指令, AI写作]
+tags: [ChatGPT, 提示词工程, 自定义指令, AI个性化, 写作风格]
 created: 2025-07-23
-updated: 2025-07-23
-sources: []
+updated: 2026-06-13
+sources: [raw/notes/2025-07-23-Make-ChatGPT-Think-Like-YOU-with-This-ONE-Prompt!.md]
 ---
-# 让ChatGPT像你一样思考的提示词
 
-> 一种通过角色扮演采访用户来逆向生成ChatGPT自定义指令（Custom Instructions）的方法。
+# 让 ChatGPT 像你一样思考的提示词
 
-## 核心观点
-- 让ChatGPT扮演资深调查记者，通过最多7个精准问题了解用户的思维、沟通和决策方式
-- 将回答提炼为两个自定义指令字段："ChatGPT应该了解你的什么"和"如何回应"
-- 最终输出适合复制粘贴到ChatGPT设置中
+## 概要
+
+一种通过角色扮演采访来逆向生成 ChatGPT 自定义指令（Custom Instructions）的方法。让 ChatGPT 扮演资深调查记者，通过最多 7 个精准问题了解用户的思维方式，然后将回答提炼为两个自定义指令字段。
+
+## 核心内容
+
+### 核心方法
+- 角色设定：让 ChatGPT 扮演有 20+ 年经验的资深调查记者
+- 通过 7 个精心设计的采访问题了解用户特质
+- 将回答浓缩为两个 Custom Instructions 字段
+
+### 四步流程
+1. 简要解释 Custom Instructions 的作用和好处
+2. 提出 7 个深入了解用户思维、沟通和决策方式的问题
+3. 将回答提炼为两个指令字段
+4. 输出格式化的文本块，方便复制粘贴
+
+### 输出要求
+- 每个字段不超过 1,500 字符
+- 阅读水平不超过 Grade 8
+- 反映用户独特的声音、目标和偏好
 
 ## 关键概念
-- [[ChatGPT]] — OpenAI对话AI
-- [[自定义指令]] — ChatGPT的Custom Instructions功能，个性化AI回复风格
-- [[提示词工程]] — 设计和优化AI提示词的方法
+
+- **Custom Instructions**：ChatGPT 的自定义指令功能，持久化个性化设置
+- **角色扮演提示**：通过设定 AI 角色引导对话方向的技术
+- **用户画像逆向**：通过采访反向推导用户偏好的方法
+
+## 关联实体
+
+- [[ChatGPT]] — OpenAI 对话 AI
+- [[提示词工程]] — AI 提示词设计方法论
 
 ## 相关页面
-- [[NotebookLM]]
+
+- [[AI个性化设置]] — 各平台 AI 个性化配置方法
+- [[提示词模板库]] — 实用提示词集合

@@ -1,28 +1,46 @@
 ---
 type: entity
-aliases: [Bill Gates, 比尔盖茨, Gates Notes]
-tags: [科技, 阅读, 慈善]
+aliases: [Bill Gates, 比尔盖茨, Gates Notes, 比尔·盖茨]
+tags: [科技, 阅读, 慈善, 微软, 书单]
 ---
 
 # Bill Gates
 
-微软联合创始人。Gates Notes个人博客。Gates基金会。
+## 概述
 
-## 核心活动
-- 每年夏季/冬季书单推荐
-- 新回忆录《Source Code》（西雅图童年到微软早期）
-- Gates Notes Insider社区
+Bill Gates 是微软联合创始人、全球知名慈善家。通过 Gates Notes 个人博客分享阅读书单、科技洞见和慈善工作。其每年夏季和冬季的推荐书单在出版界具有重要影响力。2025 年出版回忆录《Source Code》，讲述从西雅图童年到微软早期的经历。通过盖茨基金会（Bill & Melinda Gates Foundation）在全球健康和发展领域持续投入。
 
-## 推荐书籍
-- How to Know a Person（David Brooks）— 社交技巧可学习
-- Summer Books 2024
+## 背景与贡献
+
+### 核心活动
+- **Gates Notes 博客**：分享书评、科技思考、旅行见闻和基金会工作
+- **年度书单推荐**：每年夏季和冬季发布推荐书单，影响全球阅读风向
+- **Gates Notes Insider 社区**：书迷交流社区
+- **盖茨基金会**：全球健康、农业发展和教育改善
+
+### 推荐书籍风格
+- 关注社会议题和个人成长的交集
+- 偏爱科技、行为科学、公共健康类图书
+- 推荐书目兼具深度和可读性
+
+### 回忆录《Source Code》
+- 2025 年出版
+- 涵盖西雅图童年到微软早期创业经历
+- 展示成长环境如何塑造了他的世界观和工作方式
+
+## 关键概念
+
+- **Gates Notes**：Bill Gates 的个人博客，阅读书单的主要发布平台
+- **Gates Notes Insider**：付费会员社区，获取独家内容和活动邀请
+- **盖茨基金会**：关注全球健康、农业发展和教育改善的慈善组织
+- **年度书单**：每年夏季和冬季两期，涵盖 5-10 本推荐书籍
+
+## 关联实体
+
+- [[阅读与书籍]] — Gates Notes 书单属于该领域的重要资源
+- [[社交与人际关系]] — How to Know a Person 等推荐书反映的阅读兴趣
+- [[David Brooks]] — Gates 推荐的图书作者之一
 
 ## 相关素材
-- [[2024-06-24-gates-summer-books]] — 2024夏季书单
-- [[2024-06-21-how-to-know-person]] — How to Know a Person
-- [[2025-02-15-gates回忆录]] — Source Code回忆录
-- [[2025-08-11-gates-notes]] — Gates Notes Insider
 
-## 相关页面
-- [[阅读与书籍]]
-- [[社交与人际关系]]
+- [[cubox-2024-06]] — Gates 夏季书单相关收藏

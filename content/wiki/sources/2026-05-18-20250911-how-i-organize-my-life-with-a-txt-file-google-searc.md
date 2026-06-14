@@ -1,26 +1,60 @@
 ---
-title: "2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc"
-type: source
-date: "2026-05-18"
-source_path: "raw/articles/2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc.md"
-sources: []
-images: 0
-image_paths: []
+tags: [纯文本, 任务管理, 信息组织, 效率工具, 极简主义]
+created: 2025-09-11
+updated: 2026-06-13
+sources: [raw/articles/2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc.md]
 ---
 
-# 2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc
+# 如何用一个txt文件组织我的生活
 
-## 基本信息
-- 标题：created: 2025-09-11
-- 原始文件：2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc.md
-- 收录路径：raw/articles/2026-05-18-20250911-how-i-organize-my-life-with-a-txt-file-google-searc.md
+## 概要
 
-## 核心要点
-- One big text file (OBTF) approach。
-- One Big Text File (OBTF):** This approach, popularized by figures like Cal Newport, involves capturing all notes, tasks, and ideas into a single, reverse-chronological file.
-- Method 1: The One Big Text File (OBTF)。
+一篇关于纯文本个人信息管理系统的综合指南。文章介绍三种核心方法——单一大型文本文件（OBTF）、基于todo.txt的多文件系统、纯文本子弹笔记法，阐述了纯文本系统"极简、强大、灵活、未来兼容"的核心优势。这套方法不依赖任何商业软件，可在任何设备上永久使用，核心原则是"快速捕捉，稍后整理"。
 
-## 摘要
-该素材重点讨论 file、text、system，正文围绕可执行做法与结果展开。
-从文内高频信息看，作者意图是把分散经验整理成可复用流程。
-可将本页作为同主题材料的对照来源，用于补齐细节与验证结论。
+## 核心内容
+
+### 纯文本系统的核心优势
+- **未来兼容**：.txt格式通用，50年后任何计算机都能读取
+- **速度与轻量**：文件极小，打开瞬间，无加载时间和界面干扰
+- **全平台可访问**：所有设备支持.txt，配合云同步可随时随地访问
+- **无限灵活**：用户完全控制，可根据自己的思维和工作流设计系统
+
+### 方法一：单一大型文本文件法（OBTF）
+- 将所有笔记、任务和想法记录在一个不断增长的文件中（如 `life.txt`）
+- 以 `YYYY-MM-DD` 日期戳开头，按时间倒序排列
+- 使用 `#` 和 `@` 标签标记项目、人物或任务类型，方便搜索
+- 关键在于**定期回顾**：利用文本编辑器的搜索功能查找并处理条目
+- Cal Newport 推荐的 `WorkingMemory.txt` 是此方法的典型应用
+
+### 方法二：基于todo.txt的多文件系统
+- 文件分工：`inbox.txt`（临时收件箱）、`todo.txt`（主任务清单）、`projects.txt`（项目笔记）、`calendar.txt`（日程）、`done.txt`（归档）、`notes.txt`（参考资料）
+- todo.txt语法：`(A)`优先级、`+项目名`、`@情境`、`due:日期`、`x`表示完成
+- 格式可被多种应用和命令行工具自动识别、排序和过滤
+
+### 方法三：纯文本子弹笔记法
+- 将Ryder Carroll的子弹笔记数字化，按月份创建文件
+- 核心符号：`*`待办、`x`已完成、`>`已迁移、`o`事件、`-`笔记
+- 通过"迁移"未完成任务的动作，迫使每日重新审视任务重要性
+
+### 成功实践关键
+- 使用Markdown增强可读性，善用Obsidian等工具的标签和链接功能
+- 保持格式一致性，建立定期处理"收件箱"的习惯
+- 专注于每天能实际完成的任务量
+
+## 关键概念
+
+- **OBTF（One Big Text File）**: 将所有信息存入单一文本文件的方法，消除信息存放位置的决策摩擦
+- **todo.txt语法**: Gina Trapani创建的任务管理格式，用简单符号实现优先级、项目、情境等元数据标注
+- **子弹笔记法（Bullet Journal）**: Ryder Carroll创立的有意识记录系统，通过符号区分任务、事件和笔记
+- **信息迁移**: 将未完成任务推移到未来日期的动作，是重新评估任务价值的关键步骤
+
+## 关联实体
+
+- [[知识管理与笔记系统]] — 纯文本管理系统是知识管理的极简主义实践路径
+- [[Obsidian]] — 文中推荐Obsidian作为纯文本系统的进阶工具，提供标签、链接和搜索功能
+
+## 相关页面
+
+- [[知识管理与笔记系统]] — 三种纯文本组织方法为笔记系统设计提供了轻量级的替代方案
+- [[Obsidian]] — 纯文本是Obsidian的底层基础，OBTF和todo.txt方法可在Obsidian中增强使用
+- [[个人成长与人生规划]] — 有效的任务管理系统是提升个人效率和实现目标的基础工具

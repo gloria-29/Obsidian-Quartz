@@ -1,33 +1,75 @@
 ---
-tags: [health, weight-loss, semaglutide, glp-1, diet]
+tags: [health, weight-loss, semaglutide, glp-1, diet, calorie-control]
 created: 2024-12-28
-updated: 2024-12-28
-sources: [Personal health notes, medical guidelines]
+updated: 2026-06-13
+sources:
+  - "个人健康笔记：司美格鲁肽服用期间的饮食管理"
+  - "医学指南：GLP-1受体激动剂用药建议"
+  - "Google搜索：司美格鲁肽剂量调整方案"
 ---
 
-# Semaglutide and Calorie Control During Weight Loss
+# 司美格鲁肽服用期间的饮食与卡路里控制
 
-## Summary
-Guidance on optimizing weight loss while taking oral semaglutide (12mg). Key issues identified: irregular OMAD meal timing, inconsistent meal composition (sometimes no staple food, sometimes too oily, sometimes cold food or ice cream as meal), and consuming cold drinks/snacks before bed affecting digestion. The core principle: semaglutide helps by regulating appetite and slowing gastric emptying, but calorie deficit remains essential—aim for 500-750 kcal/day deficit. Diet should emphasize quality protein (chicken breast, fish, shrimp), dark vegetables (spinach, celery), and whole grains (oats, millet). Combine with moderate aerobic exercise 3-5x/week plus resistance training.
+## 概要
 
-## Core Ideas
-- **Semaglutide is a tool, not a complete solution**: calorie control and lifestyle changes are still necessary
-- **Meal regularity matters**: fixed OMAD timing and consistent food types improve tolerance and results
-- **Avoid cold/raw foods** as main meals: they can aggravate GI side effects
-- **Protein + vegetables + whole grains** as the ideal meal composition
-- **500-750 kcal/day deficit** for safe, sustainable weight loss
-- **Exercise synergy**: 3-5x/week moderate aerobic + resistance training
+口服司美格鲁肽（12mg）辅助减重期间的饮食优化指南。排查出三个核心问题：OMAD进餐时间不固定、食物种类混乱（有时无主食、有时过油、有时凉食甚至冰棍当正餐）、睡前大量冷饮零食影响消化。核心原则：司美格鲁肽通过调节食欲和延缓胃排空帮助减重，但热量赤字仍是根本——建议每日减少500-750大卡。饮食应以优质蛋白（鸡胸肉、鱼虾）、深色蔬菜（菠菜、芹菜）和粗粮（燕麦、小米）为主。配合每周3-5次中等强度有氧运动及抗阻训练。标准剂量递增方案：0.25mg起步，逐月递增至2.4mg维持剂量，通过绿/黄/红信号系统判断身体反应。
 
-## Key Concepts
-- [[GLP-1]] receptor agonists (semaglutide)
-- Calorie deficit principle
-- OMAD meal composition optimization
-- GI side effect management
-- Metabolic monitoring during pharmaceutical weight loss
-- Rebound prevention after medication cessation
+## 核心内容
 
-## Related Pages
-- [[OMAD Emotional Eating Analysis]]
-- [[OMAD Diet Challenge Reflection]]
-- [[Huberman Lab Essentials: Lose Fat With Science-Based Tools]]
-- [[Fasting for Life Podcast Insights]]
+### 用药期间发现的问题
+1. **进餐时间不固定**：OMAD没有规律的用餐时间
+2. **食物种类混乱**：有时无主食、有时过油、有时不加热凉着吃，甚至以冰棍水果当正餐
+3. **冷饮零食过多**：日常大量喝凉水、饮料，睡前吃冷饮，对肠胃负担大
+
+### 剂量递增策略
+- 标准方案：0.25mg → 0.5mg → 1.0mg → 1.7mg → 2.4mg（Wegovy维持剂量）
+- **绿灯信号**（可递增）：副作用轻微或无、食欲抑制有效、体重稳定下降
+- **黄灯信号**（暂缓递增）：中度恶心/便秘、食欲波动明显——在当前剂量多停留4周
+- **红灯信号**（考虑回退）：严重呕吐、无法进食、体重骤降
+- STEP临床试验数据：2.4mg剂量下43.9%出现恶心，仅4.3%因此停药
+- 三类真实场景：顺利递增者、需要在某剂量停留者、因副作用回退者
+
+### 热量控制原则
+- 减肥本质是**热量赤字**：摄入低于消耗
+- 药物帮助减少食欲，但饮食结构不合理仍会影响效果
+- 建议每日减少**500-750大卡**以达到安全减重速度
+- 避免过度限制热量，以免影响代谢和健康
+
+### 饮食优化方案
+- **优质蛋白**：鸡胸肉、鱼虾等——维持肌肉量，提升饱腹感
+- **深色蔬菜**：菠菜、芹菜等——低热量高纤维
+- **粗粮主食**：燕麦、小米等——稳定血糖
+- 减少高糖、高脂、高热量食物
+- 少量多餐减轻胃肠负担，减少恶心、呕吐等药物副作用
+
+### 运动与生活习惯
+- 每周3-5次中等强度有氧运动
+- 结合抗阻训练增强肌肉代谢能力
+- 规律作息，保证7-8小时睡眠
+- 避免情绪化饮食和暴饮暴食
+
+### 停药后反弹预防
+- 科学减重需长期坚持，不可依赖单一药物
+- 定期监测肝肾功能及代谢状况
+- 整合饮食、运动与药物干预以降低停药后反弹风险
+
+## 关键概念
+
+- **GLP-1受体激动剂**：司美格鲁肽的作用机制——调节食欲、延缓胃排空
+- **热量赤字**：减重的根本物理原理
+- **OMAD优化**：单一饮食模式下的规律化与质量控制
+- **GI副作用管理**：通过饮食结构调整减轻肠胃不适
+- **代谢监测**：用药期间的定期健康指标追踪
+- **绿/黄/红信号系统**：判断身体反应以决定剂量调整节奏
+
+## 关联实体
+
+- [[GLP-1]] — 司美格鲁肽属于GLP-1受体激动剂类药物
+- [[3x3-App]] — 健康目标可纳入季度目标系统进行追踪
+
+## 相关页面
+
+- [[减重与健康]] — 司美格鲁肽用药是减重策略的一部分
+- [[心理与情感]] — 情绪化饮食是减重中的核心障碍
+- [[效率与自我管理]] — 用餐规律化本质上是自我管理问题
+- [[生活管理与SOP]] — 饮食管理可建立个人SOP

@@ -1,35 +1,50 @@
 ---
-type: source
-title: "The-Power-of-Tiny-Habits-for-Behavior-Change"
-date: 2024-12-11
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+tags:
+  - 微习惯
+  - BJ Fogg
+  - 行为改变
+  - 习惯建立
+  - 播客
+created: 2024-12-11
+updated: 2026-06-13
+sources:
+  - raw/notes/2024-12-11-The-Power-of-Tiny-Habits-for-Behavior-Change.md
 ---
 
-# The-Power-of-Tiny-Habits-for-Behavior-Change
+# The Power of Tiny Habits for Behavior Change
 
-> 标题: The Power of Tiny Habits for Behavior Change
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2024-12-11
-
-
-
+一期播客节目深入讨论了 [[BJ Fogg]] 的《微习惯》和行为模型（B=MAP），探讨如何通过微小行动而非依赖意志力来实现持久的行为改变。涵盖珍珠习惯、庆祝小胜利、锚定新习惯到既有行为等核心策略。
 
 ## 核心内容
 
-标题: The Power of Tiny Habits for Behavior Change
+- **Fogg 行为模型 B=MAP**: 行为（Behavior）发生在动机（Motivation）、能力（Ability）和提示（Prompt）同时满足时。三个要素在合适时机结合才能触发行为，单靠动机是导致沮丧的配方
+- **微习惯策略**: 开始极其微小、几乎可笑的行动——例如每天早上对自己说一句积极的话。限制时间使行为更可靠，允许立即开始，消除失败恐惧
+- **锚定技术**: 将新习惯链接到已有的稳定行为。例如用刷牙作为使用牙线的提示，而非试图随机记起。已有习惯成为新行为的触发因素
+- **珍珠习惯**: 将生活中的小烦恼转化为积极行动的触发点。BJ Fogg分享了半夜被空调吵醒后做短暂冥想的例子——将负面体验转变为放松与正念的机会
+- **庆祝小胜利**: 完成微习惯后给予自己认可（击掌等），大脑会释放多巴胺强化该行为，创造正向反馈循环
+- **逐步升级**: 一旦微小习惯变得自动化，再逐步增加难度或添加步骤。像锻炼肌肉一样从轻重量开始，逐步增加
+- **群体应用**: Fogg的模型同样适用于组织和社会层面——通过优化动机、能力和提示来影响群体行为，例如提高员工回收利用率
 
-## 关联实体
+## 关键概念
 
-（待分析后补充）
+- **B=MAP 行为模型**: BJ Fogg的核心框架，行为=动机+能力+提示三要素的交汇
+- **微习惯（Tiny Habits）**: 小到不可能失败的行为起点，旨在绕过意志力依赖
+- **锚定（Anchoring）**: 将新习惯绑定到已有习惯上的提示设计技术
+- **珍珠习惯（Pearl Habits）**: 将负面触发因素转化为积极习惯的策略
+- **涟漪效应**: 微小行动能在行为中产生连锁反应，一个积极的小改变带动更多健康选择
 
-## 相关页面
+## 关联实体 [[wikilinks]]
 
-（待分析后补充）
+- [[BJ Fogg]] — 斯坦福大学行为科学家，"行为设计之父"，《微习惯》作者
+- [[微习惯]] — 通过微小行动实现持久行为改变的方法论
+- [[Fogg行为模型]] — B=MAP行为改变框架
+
+## 相关页面 [[wikilinks]]
+
+- [[BJ Fogg]]
+- [[Fogg行为模型]]
+- [[个人成长与人生规划]]
+- [[心理与情感]]
+- [[减重与健康]]

@@ -1,27 +1,42 @@
 ---
 tags: [Fogg-Behavior-Model, writing, networking, habits, DeepSeek]
 created: 2025-08-26
-updated: 2025-08-26
-sources: []
+updated: 2026-06-13
+sources:
+  - DeepSeek 知识库对话记录
 ---
+# 应用Fogg行为模型于写作副业与人际社交
 
-# Applying Fogg Behavior Model to Writing and Networking
+## 概要
+通过 [[DeepSeek]] 知识库对话，系统探讨如何将 BJ Fogg 的行为模型（B=Mat）应用于写作副业启动和人际社交网络建设。核心框架：行为 = 动机（Motivation）× 能力（Ability）× 提示（Prompt），三者同时满足时行为才会发生。提供了从微小行为起步、逐步积累的具体策略。
 
-## Summary
-A [[DeepSeek]] AI knowledge base conversation applying BJ Fogg's Behavior Model (Motivation x Ability x Prompt) to writing side-hustles and social networking. Provides systematic frameworks for translating intention into sustainable behavioral change in both domains.
+## 核心内容
+- **写作副业应用**：
+  - 动机：内在意义感（自我表达、价值实现）+ 外在回报（收入、社会认可）双重驱动
+  - 能力：将无形写作能力"产品化"（课程、指导等），从短文起步逐步增加难度
+  - 提示：设定固定写作时间表（如晨间/晚间一小时），用时间触发替代意志力
+- **人际社交应用**：
+  - 动机：设定清晰关系目标，灵活调整（关系是动态的：盟友 ↔ 支持者 ↔ 竞争者 ↔ 对手）
+  - 能力：培养沟通、同理心、冲突解决能力；通过定期小行为（问候消息、内容分享、提供帮助）维持关系
+  - 提示：每周固定时间与关键联系人沟通，项目节点主动联系合作伙伴
+- **意图与影响的鸿沟**：本意不等于对方感受到的影响——需要关注行为的实际效果而非仅凭出发点判断
+- **动态关系管理**：将人从一个象限移动到另一个象限需要针对性行动，如竞争者通过合作项目转化为伙伴
 
-## Core Ideas
-1. **Writing application**: Motivation comes from intrinsic meaning (Fi-driven) + extrinsic rewards. Ability requires incremental skill building (short pieces first) and productizing intangible capabilities. Prompts are fixed time triggers (morning/evening writing sessions).
-2. **Social networking application**: Motivation targets clear relationship goals with flexibility for dynamic relationship states (ally > supporter > competitor > adversary). Ability builds on communication, empathy, and conflict resolution skills. Prompts use fixed interaction schedules (weekly check-ins, milestone outreach).
-3. **Dynamic relationship management**: Move people between quadrants (ally, supporter, competitor, adversary) through targeted actions. Competitors become partners through collaborative projects. Relationship repair uses honest dialogue during low moments.
+## 关键概念
+- **B=Mat**：行为 = 动机 × 能力 × 触发提示，三个要素缺一不可
+- **微行为起步**：从"小到不可能失败"的行动开始（如一条问候消息、写一段话），降低启动门槛
+- **意图与影响鸿沟（Intention vs Impact Gap）**：在人际关系中，你认为的善意可能被对方感知为压力或误解
+- **关系四象限**：盟友、支持者、竞争者、对手——关系状态是动态可变的
 
-## Key Concepts
-- **B=MAT**: Behavior = Motivation x Ability x Trigger (all three must converge)
-- **Growing from small behaviors**: Start with micro-actions (greeting message, sharing content, offering help)
-- **Intention vs Impact gap**: In relationships, what you intend may not match what others perceive
+## 关联实体
+- [[Fogg行为模型]] — BJ Fogg 提出的行为设计框架，B=Mat
+- [[BJ Fogg]] — 斯坦福大学行为科学家，行为设计实验室创始人
+- [[DeepSeek]] — AI 知识库工具，用于结构化对话探索
+- [[个人成长与人生规划]] — 行为模型应用于个人目标管理
+- [[AI工具与应用-扩展]] — AI 知识库辅助思维框架应用
 
-## Related Pages
-- [[DeepSeek]] - AI knowledge base tool
-- [[Habit Formation]]
-- [[Writing as a Side Hustle]]
-- [[Social Capital and Networking]]
+## 相关页面
+- [[Fogg行为模型]] — 行为模型的核心理论与案例
+- [[BJ Fogg]] — 理论提出者及其学术背景
+- [[个人成长与人生规划]] — 行为改变方法论的更广应用
+- [[知识管理与笔记系统]] — AI 知识库对话作为知识探索工具

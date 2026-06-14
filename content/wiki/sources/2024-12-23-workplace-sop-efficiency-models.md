@@ -1,32 +1,75 @@
 ---
-tags: [productivity, sop, workplace, career, communication]
+tags: [productivity, sop, workplace, career, communication, frameworks]
 created: 2024-12-23
-updated: 2024-12-23
-sources: [CSDN blog article]
+updated: 2026-06-13
+sources:
+  - "CSDN博客：职场SOP提升效率的关键"
+  - "David Allen — GTD方法论（相关参考）"
 ---
 
-# Workplace SOP: Key Models for Efficiency
+# 职场SOP：提升效率的关键模型
 
-## Summary
-A reading note on workplace Standard Operating Procedures (SOPs), covering five key models for different professional scenarios: SCQA for reporting (Situation-Complication-Question-Answer), PDCA for review/retrospective (Plan-Do-Check-Act), SMART for goal setting, AIDA for communication (Attention-Interest-Desire-Action), and PrOACT for decision-making (Problem-Objectives-Alternatives-Consequences-Tradeoffs). SOPs are presented as a systematic way to handle recurring workplace challenges efficiently.
+## 概要
 
-## Core Ideas
-- **SCQA model for reporting**: frame reports with Situation, Complication, Question, Answer
-- **PDCA cycle for复盘 (review)**: Plan-Do-Check-Act for continuous improvement
-- **SMART goals**: Specific, Measurable, Achievable, Relevant, Time-bound
-- **AIDA for communication**: capture Attention, build Interest, create Desire, prompt Action
-- **PrOACT for decisions**: Problem identification, Objectives, Alternatives, Consequences, Tradeoffs
+关于职场标准操作规程（SOP）的阅读笔记，涵盖五种关键场景模型：SCQA用于汇报（情境-冲突-问题-答案），PDCA用于复盘（计划-执行-检查-行动），SMART用于目标设定，AIDA用于沟通（注意-兴趣-欲望-行动），PrOACT用于决策（问题-目标-方案-后果-权衡）。SOP是一种系统化应对重复性职场挑战的方法，将混乱的应激式工作转化为可复制的高效流程。
 
-## Key Concepts
-- [[SOP]] (Standard Operating Procedure) for knowledge work
-- SCQA structured communication
-- PDCA continuous improvement cycle
-- [[SMART]] goal framework
-- AIDA persuasion model
-- PrOACT decision framework
+## 核心内容
 
-## Related Pages
-- [[Personal Daily SOP]]
-- [[Personal SOP and Q1 2025 Habits]]
-- [[3x3x3 Quarterly Goal System]]
-- [[Deep Work]] – execution complement to SOP planning
+### 汇报SOP — SCQA模型
+- **S（Situation）**：明确汇报的整体背景
+- **C（Complication）**：指出当前背景下的关键问题或挑战
+- **Q（Question）**：提出需要关注和解决的关键问题
+- **A（Answer）**：给出具体方法或合理建议
+- 适用场景：周报、项目汇报、向上沟通
+
+### 复盘SOP — PDCA循环
+- **P（Plan）**：明确目标及达成目标的过程
+- **D（Do）**：制定并执行具体实施方案
+- **C（Check）**：对每项事项进行核查与分析
+- **A（Act）**：将成功经验标准化，完成改进动作
+- 源自质量管理，适用于项目复盘和个人成长
+
+### 目标SOP — SMART模型
+- **S（Specific）**：目标具体明确，避免模糊表述
+- **M（Measurable）**：可量化测量
+- **A（Achievable）**：在能力和资源范围内可实现
+- **R（Relevant）**：小目标与大目标存在逻辑关联
+- **T（Time-bound）**：设定明确时间期限
+
+### 沟通SOP — AIDA模型
+- **A（Attention）**：吸引对方注意力
+- **I（Interest）**：提供有趣信息维持兴趣
+- **D（Desire）**：将兴趣转化为具体需求
+- **A（Action）**：促使对方采取行动
+- 从营销移植到职场沟通，适用于邮件、提案、演讲
+
+### 决策SOP — PrOACT模型
+- **Pr（Problem）**：精准识别根本性问题
+- **O（Objectives）**：明确真正想要的结果
+- **A（Alternatives）**：广泛收集信息，罗列各方案优缺点
+- **C（Consequences）**：量化分析各方案结果
+- **T（Tradeoffs）**：权衡比较，选择相对最优方案
+
+## 关键概念
+
+- **SOP（标准操作规程）**：将知识工作流程化、可重复化
+- **SCQA结构化沟通**：麦肯锡方法论的汇报应用
+- **PDCA持续改进循环**：源自质量管理，适用于个人复盘
+- **SMART目标框架**：避免模糊目标的经典方法
+- **AIDA说服模型**：从营销移植到职场沟通
+- **PrOACT决策框架**：结构化避免盲目决策
+
+## 关联实体
+
+- [[David Allen]] — GTD方法论与SOP理念相通：将工作流程化
+- [[Cal Newport]] — Deep Work 是SOP规划的执行互补
+- [[BJ Fogg]] — 微行为模型可辅助SOP的习惯化执行
+
+## 相关页面
+
+- [[生活管理与SOP]] — 职场SOP与个人生活SOP的系统化思路一致
+- [[效率与自我管理]] — SOP是效率管理的核心工具
+- [[个人生产力与时间管理]] — SOP模型为时间管理提供结构化框架
+- [[3x3-App]] — 季度目标系统可与SMART模型结合使用
+- [[心理与情感]] — 决策与沟通中的情绪管理
+- [[写作与内容创作]] — SCQA和AIDA模型可应用于写作结构

@@ -1,26 +1,68 @@
 ---
-title: "2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变"
-type: source
-date: "2026-05-18"
-source_path: "raw/articles/2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变.html"
-sources: []
-images: 0
-image_paths: []
+tags: [Cloudflare, 临时邮箱, 子域名, DNS配置, Worker, 邮件路由]
+created: "2026-04-28"
+updated: "2026-06-13"
+sources:
+  - "raw/articles/2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变.html"
 ---
 
-# 2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变
+# Cloudflare 子域邮箱配置：临时邮箱的无限裂变
 
-## 基本信息
-- 标题：<!DOCTYPE html>
-- 原始文件：2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变.html
-- 收录路径：raw/articles/2026-05-18-20260428-cloudflare-tempemail-子域邮箱配置方法の无限裂变.html
+## 概要
 
-## 核心要点
-- github.com GitHub - dreamhunter2333/cloudflare_temp_email: CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件...
-- 进入 Cloudflare 控制台，打开你的主域名（例如 example.com ），点击左侧的 “DNS” → “记录” 。
-- 目标选择你已经部署好的临时邮箱 Worker 程序（例如 cloudflare_temp_email ）。
+基于 Cloudflare Worker 的免费临时域名邮箱方案，通过配置通配符 DNS + 主域 Catch-all + Worker 环境变量实现随机二级域名收信。子域邮箱注册 OpenAI 等服务成功率约 60%，是应对风控的有效手段。
 
-## 摘要
-该素材重点讨论 cloudflare、com、email，正文围绕可执行做法与结果展开。
-从文内高频信息看，作者意图是把分散经验整理成可复用流程。
-可将本页作为同主题材料的对照来源，用于补齐细节与验证结论。
+## 核心内容
+
+### 前置条件
+
+- 部署 [cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) 项目（需 v1.50+，支持随机二级域名）
+- 拥有 Cloudflare 托管的主域名（如 `example.com`）
+
+### 三步配置流程
+
+**第一步：通配符 MX 记录**
+
+在 Cloudflare DNS 管理页面添加三条通配符 MX 记录（名称填 `*`）：
+- `route1.mx.cloudflare.net` / `route2.mx.cloudflare.net` / `route3.mx.cloudflare.net`
+- 同时添加通配符 SPF TXT 记录：`v=spf1 include:_spf.mx.cloudflare.net ~all`
+
+**第二步：开启主域名 Catch-all**
+
+路径：电子邮件 → 电子邮件路由 → 路由规则 → Catch-all 地址
+- 状态：开启
+- 操作：发送到 Worker（选择已部署的 `cloudflare_temp_email`）
+
+**第三步：配置 Worker 环境变量**
+
+- `DOMAINS`：`["example.com"]`（主域名）
+- `RANDOM_SUBDOMAIN_DOMAINS`：`["example.com"]`
+- `ENABLE_RANDOM_SUBDOMAIN`：`true`
+
+### 工作原理
+
+发往 `test@任意值.example.com` 的邮件 → 通配符 MX 解析到 Cloudflare 邮件服务器 → 主域 Catch-all 拦截 → Worker 接收处理 → 前端收件箱展示。
+
+### 限制
+
+- Cloudflare 邮件路由界面不支持泛解析，需手动在 DNS 页面添加
+- 子域邮箱非万能，部分服务仍有风控拦截
+
+## 关键概念
+
+- **通配符 MX 记录**：名称为 `*` 的 MX 记录，匹配所有未明确定义的子域
+- **Catch-all**：主域邮件路由的全部捕获功能，将无匹配规则的邮件统一转发
+- **随机二级域名**：每次注册生成不同子域前缀，增加邮箱多样性
+- **SPF 记录**：Sender Policy Framework，防止发信被退信
+
+## 关联实体
+
+- [[Cloudflare]] — DNS 和 Worker 平台
+- [[技术与服务器部署]] — 部署实践
+- [[PAI]] — 个人基础设施中的邮件管理
+
+## 相关页面
+
+- [[技术与服务器部署]]
+- [[一人公司工具栈]]
+- [[MCP协议与工具生态系统]]

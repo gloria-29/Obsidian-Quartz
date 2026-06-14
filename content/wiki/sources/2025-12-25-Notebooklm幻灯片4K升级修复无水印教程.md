@@ -1,35 +1,44 @@
 ---
+title: "Notebooklm幻灯片4K升级修复无水印教程"
 type: source
-title: "阅读笔记：Alexey-Guzey《Why-You-Should-Start-a-Blog-Right-Now》"
-date: 2025-07-16
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+date: 2025-12-25
+source: web
+source_url: https://dinox-new.5984f2df14671be265c2d2fc0e21b3f8.r2.cloudflarestorage.com/dinox_note/assets/019126f0-2672-7286-b640-feeb1616b906/images/019b53fb-63d5-7878-9255-00fbd892315f.jpg
+topics: ["工具", "生活"]
 ---
 
-# 阅读笔记：Alexey-Guzey《Why-You-Should-Start-a-Blog-Right-Now》
+# Notebooklm幻灯片4K升级修复无水印教程
 
-> 标题: 阅读笔记：Alexey Guzey《Why You Should Start a Blog Right Now》
-
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-07-16
-
-
-
+## 概要
+Notebooklm 幻灯片中文字体修复升级版：升级 4K满足大屏投影需求+修正画面瑕疵+去水印 前两天分享了一个用 Gemini 修复 Notebooklm 幻灯片中文笔画崩坏的方法，很受大家欢迎。其实升级到 2K 字体细节仍不够完美，个别复杂的字还是会有笔画模糊的情况。今天再分享一个进阶点的方法：使用谷歌 AI studio 指定 4K 输出，笔画细节几乎可以达到真实文字输入的效果了，即使投影...
 
 ## 核心内容
 
-标题: 阅读笔记：Alexey Guzey《Why You Should Start a Blog Right Now》
+### Notebooklm 幻灯片中文字体修复升级版：升
+- Notebooklm 幻灯片中文字体修复升级版：升级 4K满足大屏投影需求+修正画面瑕疵+去水印
+- 前两天分享了一个用 Gemini 修复 Notebooklm 幻灯片中文笔画崩坏的方法，很受大家欢迎。其实升级到 2K 字体细节仍不够完美，个别复杂的字还是会有笔画模糊的情况。今天再分享一个进阶点的方法：使用谷歌 AI studio 指定 
+- 比如图中的例子：画面右侧背景太暗文字可读性很差，通过提示词“请将该图片用最高分辨率重新生成，修复文字错误，去掉水印，并修复画面右侧文字可读性的问题”进行整体修复。大家可以根据具体画面中的瑕疵用针对性的提示词进行修复，如果修复后画面变化过大，
+- AI studio 现在免费额度几乎没有了，想要正常使用需要绑定支付方式才行还是有点门槛的。大家也可以选择支持 Nano banana pro 的第三方服务，比如 Lovart，freepik等或者使用 AI 客户端搭配 API key 的
+- （引用的原帖）
+
+### 一个提示词修复Notebooklm幻灯片中文字体崩
+- 一个提示词修复Notebooklm幻灯片中文字体崩坏。
+- Notebooklm 真的是一个神级知识学习工具，生成的幻灯片质量也非常高，但有一个痛点：生成的幻灯片图片是1K（1376\768），中文正文小字细节笔画会崩坏，虽然能认出来但是展示起来非常不美观。经过测试找到一个修复的方式：要将图片下载后
+
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+- 相关内容待补充
+## 关键概念
 
 ## 关联实体
 
-（待分析后补充）
-
 ## 相关页面
-
-（待分析后补充）

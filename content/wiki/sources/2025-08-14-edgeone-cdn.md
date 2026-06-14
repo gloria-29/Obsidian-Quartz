@@ -1,26 +1,54 @@
 ---
-tags: [CDN, Cloudflare, EdgeOne, Tencent-Cloud, web-hosting]
+tags: [CDN, Cloudflare, EdgeOne, 腾讯云, 网站托管, 免费加速, ICP备案]
 created: 2025-08-14
-updated: 2025-08-14
-sources: "[https://zhuanlan.zhihu.com/p/1919681354305631197]"
+updated: 2026-06-13
+sources:
+  - "https://zhuanlan.zhihu.com/p/1919681354305631197"
 ---
 
-# EdgeOne: Tencent Cloud Free Global CDN
+# EdgeOne：腾讯云免费全球 CDN 加速
 
-## Summary
-EdgeOne is Tencent Cloud's global edge acceleration platform, offering free CDN with mainland China acceleration (requires ICP filing). Compares favorably to [[Cloudflare]] for China-focused sites. Free tier includes 1 site, unlimited requests, basic WAF, and auto SSL.
+## 概要
 
-## Core Ideas
-1. **China acceleration advantage**: Unlike [[Cloudflare]] (which has no mainland China nodes), EdgeOne offers full China acceleration with filed domains. For international traffic, both are comparable.
-2. **No credit card required**: Email registration only; free plan is permanent (14-day trial + invite code for permanent free tier).
-3. **EdgeOne Pages**: Three deployment methods - Git import (GitHub/Gitee), official templates, or direct upload. Similar to [[Cloudflare Pages]].
+EdgeOne 是腾讯云推出的全球边缘加速平台，提供免费 CDN 服务并支持中国大陆加速（需 ICP 备案）。相比 [[Cloudflare]] 没有中国大陆节点的短板，EdgeOne 对面向国内用户的站点有明显优势。免费方案包含 1 个站点、不限请求数、基础 WAF 防护和自动 SSL 证书，适合个人博客和小型项目。
 
-## Key Concepts
-- EdgeOne free plan: 1 site (200 subdomains), unlimited requests for web content, basic WAF + DDoS, auto SSL
-- Limitations: No large file/video/image acceleration, no SLA, no real-time logs
-- Best for: Personal blogs, documentation sites, small projects with Chinese audience
+## 核心内容
 
-## Related Pages
-- [[Cloudflare]] - Primary alternative for international CDN
-- [[GitHub Pages]] - Alternative static hosting
-- [[Web Hosting Solutions]] - Overview of hosting options
+### 中国大陆加速优势
+- [[Cloudflare]] 在中国大陆没有节点，国内访问速度受限
+- EdgeOne 提供完整的中国大陆加速能力，前提是域名已完成 ICP 备案
+- 对于国际流量，两者性能相当
+
+### 免费方案详情
+- 无需信用卡，仅需邮箱注册即可使用
+- 永久免费计划：14 天试用期后通过邀请码转为永久免费
+- 免费方案包含：1 个站点（最多 200 个子域名）、Web 内容不限请求数、基础 WAF + DDoS 防护、自动 SSL 证书
+
+### EdgeOne Pages 静态托管
+- 三种部署方式：Git 导入（GitHub/Gitee）、官方模板、直接上传
+- 类似 [[Cloudflare Pages]] 的静态网站托管体验
+- 支持自定义域名和自动 HTTPS
+
+### 限制条件
+- 不支持大文件、视频、图片等动态加速
+- 无 SLA 保障，无实时日志
+- 最佳适用场景：个人博客、文档站点、面向中国受众的小型项目
+
+## 关键概念
+
+- **CDN（内容分发网络）**：通过全球分布的边缘节点缓存内容，降低用户访问延迟
+- **ICP 备案**：在中国大陆提供网站服务所需的域名备案，是使用 EdgeOne 中国加速的前提
+- **WAF（Web 应用防火墙）**：EdgeOne 免费方案提供的基础安全防护能力
+- **边缘计算**：EdgeOne 除了 CDN 加速外还提供边缘函数等计算能力
+
+## 关联实体
+
+- [[Cloudflare]] — 国际 CDN 和安全服务的主要替代方案，免费方案功能更全面但无中国节点
+- [[Obsidian]] — 笔记工具，其发布站点可搭配 EdgeOne/Cloudflare 加速
+
+## 相关页面
+
+- [[技术与服务器部署]] — 服务器部署、CDN 配置与运维实践
+- [[独立开发与营销]] — 个人项目部署与网站托管选择
+- [[部署与自托管]] — 自建服务与第三方托管方案对比
+- [[写作与内容创作]] — 博客搭建与内容发布相关工具链

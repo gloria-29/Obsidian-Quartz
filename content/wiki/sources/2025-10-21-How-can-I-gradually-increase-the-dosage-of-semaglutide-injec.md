@@ -1,35 +1,64 @@
 ---
+title: How can I gradually increase the dosage of semaglutide injections
 type: source
-title: "Arizona-State-University-Admissions"
-date: 2025-04-21
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+date: 2025-10-21
+source: WuCai
+topics: [健康, 医学, 药物]
+entities: [Semaglutide, Wegovy, Ozempic]
 ---
 
-# Arizona-State-University-Admissions
+# 司美格鲁肽注射剂量调整实用指南
 
-> 标题: Arizona State University Admissions
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-04-21
-
-
-
+根据身体实际反应逐步调整司美格鲁肽（Wegovy/Ozempic）注射剂量的实用指南。核心原则是"开始低，缓慢走"，通过个性化滴定找到最低有效剂量。
 
 ## 核心内容
 
-标题: Arizona State University Admissions
+### 标准剂量方案
+
+- 起始剂量 0.25 mg/周，每 4 周递增
+- 体重管理（Wegovy）：0.25 → 0.5 → 1.0 → 1.7 → 2.4 mg
+- 糖尿病（Ozempic）：0.25 → 0.5 → 1.0 mg，可至 2.0 mg
+
+### 身体反应信号系统
+
+- **绿灯**：效果明显且副作用轻微，按计划增量
+- **黄灯**：副作用持续但可忍受，不增量，联系医生
+- **红灯**：严重副作用，立即停药并就医
+
+### 副作用管理
+
+- **恶心**：少食多餐，避免油腻辛辣食物
+- **便秘**：增加饮水和膳食纤维
+- **腹泻**：多补水，避免高脂和咖啡因
+- **疲劳**：保证睡眠，适当活动
+
+### 临床数据
+
+- STEP 临床试验显示：恶心 43.9%、腹泻 29.7%、呕吐 24.5%、便秘 24.2%
+- 仅 4.3% 因副作用永久停药
+- 大多数副作用为轻到中度且暂时性
+
+### 真实场景
+
+- 在较低剂量就达到理想效果时，可维持当前剂量
+- 副作用严重时可降回上一剂量，待适应后再尝试增量
+- 副作用也是调整生活方式的信号
+
+## 关键概念
+
+- **剂量滴定** — 逐步调整药物剂量找到最低有效剂量的过程
+- **Semaglutide** — GLP-1 受体激动剂，用于体重管理和 2 型糖尿病
+- **STEP 试验** — 司美格鲁肽治疗肥胖效果的系列临床研究
+- **最低有效剂量** — 达到治疗效果的最小剂量
 
 ## 关联实体
 
-（待分析后补充）
+- [[Semaglutide]]
+- [[Wegovy]]
+- [[Ozempic]]
 
 ## 相关页面
 
-（待分析后补充）
+- [[]]

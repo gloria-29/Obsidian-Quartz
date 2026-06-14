@@ -1,34 +1,69 @@
 ---
-tags: [productivity, goal-setting, systems, cal-newport, scrum]
+tags: [productivity, goal-setting, systems, cal-newport, scrum, time-management]
 created: 2024-10-26
-updated: 2024-10-26
-sources: [Cal Newport 3x3 Method, The 12 Week Year by Brian P. Moran, Scrum by Jeff Sutherland]
+updated: 2026-06-13
+sources:
+  - "Cal Newport — 3x3 Method"
+  - "Brian P. Moran — The 12 Week Year"
+  - "Jeff Sutherland — Scrum"
+  - "Monthly Method — Sprint Planning for Personal Productivity"
 ---
 
-# 3^7 Quarterly Goal Achievement System
+# 3^7 季度目标达成系统
 
-## Summary
-A personal productivity framework inspired by [[Cal Newport]]'s 3x3 method, [[The Twelve Week Year]] by Brian Moran, and Scrum methodology. The system breaks vague long-term goals into manageable chunks using powers of 3: 3 months, 3 major goals per month (9 total), 3-week sprints, 3 minor goals per sprint (27 total), 3 hard days per week, 3 work block micro-goals per minor goal (81 total), and 3-hour work blocks. This yields 243 focused work hours per quarter using only 27 hard days—more than the ~180 productive hours of a typical knowledge worker in 60 workdays. Core principle: "You do not rise to the level of your goals. You fall to the level of your systems." ([[James Clear]])
+## 概要
 
-## Core Ideas
-- **Break vague goals into specific micro-goals**: the "What" must be clearly defined at every level
-- **Fixed-schedule work blocks**: the "When" is as important as the "What"
-- **Parkinson's Law counter**: 12-week cycles create urgency; annual goals lead to procrastination
-- **Hard days / easy days rhythm**: pre-scheduling intense focus days (Mon/Wed/Fri) reduces decision fatigue
-- **Iterative planning**: don't plan all details upfront; adjust each Sunday based on learnings
+一个以3的幂次分解为核心的个人生产力框架，灵感来自 Cal Newport 的3x3方法、Brian Moran的《12周年》和Scrum敏捷方法。系统将模糊的长期目标拆解为可管理的小块：3个月时间框架 → 每月3个主要目标（共9个） → 3周冲刺 → 每冲刺3个小目标（共27个） → 每周3个硬核日 → 每小目标3个工作块微目标（共81个） → 每工作块3小时。最终产出：每季度243小时专注工作，仅使用27个硬核日——远超普通知识工作者在60个工作日中约180小时的有效产出。核心原则："你达不到目标的高度，你跌落到你系统的水平。"
 
-## Key Concepts
-- [[Cal Newport]] 3x3 method foundation
-- [[The Twelve Week Year]] time compression concept
-- Scrum sprint methodology applied to personal productivity
-- Hard days concept from [[Cal Newport]]'s "Choose Your Hard Days"
-- ADHD-friendly "all-in" work chunks
-- No Pomodoro—flow continuity over timed breaks
-- Tool-agnostic: paper, [[Notion]], Trello, Workflowy, Timestripe
+## 核心内容
 
-## Related Pages
-- [[The Twelve Week Year]] – detailed exploration
-- [[Deep Work]] – the work style this system enables
-- [[Tiny Habits]] – complementary habit formation
-- [[Stanford Life Design Course]] – goal clarity and prototyping
-- [[Personal SOP and Q1 Habits]] – practical application
+### 七层3的幂次分解
+1. **3个月**时间框架（12周工作 + 1周休假）
+2. **每月3个主要目标**（共9个主要目标）
+3. **每个主要目标3周冲刺**（3+1周节奏：3周冲刺+1周缓冲）
+4. **每个冲刺3个小目标**（共27个小目标）
+5. **每周3个硬核日**（如周一、三、五）
+6. **每个小目标3个工作块微目标**（共81个微目标）
+7. **每个工作块3小时**（如8-11am, 12-3pm, 4-7pm）
+
+### 核心设计原则
+- **迭代式规划**：不一次性规划全部3个月，每周日根据实际调整
+- **硬核日/轻松日节奏**：预排高强度日（周一三五）减少决策疲劳
+- **反帕金森定律**：12周周期制造紧迫感，年度目标导致拖延
+- **ADHD友好**：全情投入式工作块，不使用番茄钟（打断心流）
+- **工具无关**：纸笔、Notion、Trello、Timestripe均可
+
+### 潜在产出
+- 专注工作小时：每周27小时，每月81小时，**每季度243小时**
+- 硬核日：每周仅3天，季度总计仅27天
+- 对比：知识工作者在8小时工作日中平均仅3小时高效工作，季度约180小时
+
+### 灵感来源
+- Cal Newport 的3x3方法和"选择你的硬核日"
+- Brian P. Moran《12周年》的12周时间压缩
+- Jeff Sutherland Scrum的冲刺方法论
+- 5x5力量训练的严格有限计划
+
+## 关键概念
+
+- **3的幂次分解**：将模糊目标逐层细化到可执行的小时级任务
+- **12周年度压缩**：季度=年度，制造紧迫感
+- **Scrum冲刺**应用于个人生产力：3周专注+1周缓冲
+- **硬核日预排**：参考力量训练，减少日常决策消耗
+- **宽/窄括号自控**（Scott H. Young）：知道只需硬核一天就更容易全力以赴
+- **"系统而非目标"**：工具不重要，系统才重要
+
+## 关联实体
+
+- [[Cal Newport]] — 3x3方法和Deep Work理念的核心来源
+- [[BJ Fogg]] — 微行为模型与小目标拆解思路相通
+- [[David Allen]] — GTD的任务分解思想与本系统的微目标理念一致
+- [[3x3-App]] — 本系统的应用实现
+
+## 相关页面
+
+- [[个人生产力与时间管理]] — 本系统是该领域的核心方法论之一
+- [[效率与自我管理]] — 季度目标系统是自我管理的高级框架
+- [[生活管理与SOP]] — 目标执行可嵌入个人SOP流程
+- [[心理与情感]] — 自控力、拖延与心流的心理基础
+- [[写作与内容创作]] — 创造性工作的时间块管理

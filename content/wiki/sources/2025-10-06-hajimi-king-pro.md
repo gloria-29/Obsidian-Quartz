@@ -1,12 +1,45 @@
 ---
-title: Hajimi King Pro - 超级哈基米大王
-type: source
-date: 2025-10-06
-source: WuCai
-topics: [开源项目, 增强工具]
-entities: [Hajimi King Pro]
+tags: [开源项目, AI工具, API管理, DeepSeek, 中转服务]
+created: 2025-10-06
+updated: 2026-06-13
+sources: [raw/articles/2025-10-06-hajimi-king-pro.md]
 ---
 
-# Hajimi King Pro - 超级哈基米大王
+# Hajimi King Pro — 超级哈基米大王
 
-基于 hajimi-king 原始项目增强开发的开源项目，提供扩展功能。
+## 概要
+
+Hajimi King Pro 是基于 GakkiNoOne 的 hajimi-king 原始项目进行增强开发的开源项目，口号为"人人都是超级哈基米大王"。它是一个社区驱动的增强版本，在原项目基础上添加了更多特性，主要用于 AI API 的管理和中转服务。
+
+## 核心内容
+
+### 项目定位
+- 基于 hajimi-king 的社区增强版开源项目
+- 由开发者 hyb-oyqq 维护
+- 提供比原版更丰富的功能特性
+
+### 核心功能
+- **API 中转管理**: 为 AI 服务（如 DeepSeek）提供统一的 API 管理入口
+- **增强特性**: 在原版基础上扩展了更多实用功能
+- **社区驱动**: 开源社区协作维护和功能迭代
+
+### 技术特点
+- 基于原 hajimi-king 项目的架构
+- 开源项目，代码托管在 GitHub
+- 支持多模型 API 的统一管理
+
+## 关键概念
+
+- **API 中转服务**: 为 AI 模型 API 提供统一管理和转发的中间层
+- **hajimi-king**: 原始项目名称，Hajimi King Pro 是其增强版
+- **开源社区增强**: 社区开发者在原项目基础上的二次开发
+
+## 关联实体
+
+- [[独立开发与营销]] — API 管理工具是独立开发者的技术基础设施
+- [[PAI]] — AI API 管理是 PAI 推理工具链的参考方案
+
+## 相关页面
+
+- [[羊毛，自建]] — 自建项目的工具和技术选型
+- [[效率与自我管理]] — API 管理工具提升 AI 使用效率

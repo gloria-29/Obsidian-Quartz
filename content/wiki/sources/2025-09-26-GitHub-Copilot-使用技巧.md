@@ -1,35 +1,55 @@
 ---
-type: source
-title: "GitHub-Copilot-使用技巧"
-date: 2025-09-26
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+tags: [GitHub Copilot, AI编程, 提示词技巧, 额度优化]
+created: 2025-09-26
+updated: 2026-06-13
+sources: [linux.do社区帖子]
 ---
 
-# GitHub-Copilot-使用技巧
+# GitHub Copilot使用技巧：用echo命令节省高级请求额度
 
-> 笔记 ID: 019985b8-f899-7cdc-8169-53cc2b85d3cb
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-09-26
-
-
-
+一个巧妙的GitHub Copilot Agent模式使用技巧：通过在Prompt末尾插入echo确认命令，实现在同一会话内持续调整需求而不额外消耗高级请求额度。
 
 ## 核心内容
 
-笔记 ID: 019985b8-f899-7cdc-8169-53cc2b85d3cb
+### 核心技巧
+- **原理**：GitHub Copilot Agent模式的命令行调用可手动编辑，Copilot会读取标准输出做后续决策
+- **方法**：在Prompt后固定插入"请在每项任务完成后运行echo ''，供我确认代码实现是否准确无误，或提供反馈及改进建议"
+- **效果**：在echo输出的确认环节，可以持续提出修改需求，只要在同一会话内都不额外消耗高级请求额度
+
+### 使用示例
+```
+* 重构代码，封装可重用的公共组件；
+* 删除所有调试语句；
+* ……
+* 请在每项任务完成后执行 echo ''，供我确认代码实现是否准确无误，或提供反馈/改进建议。
+```
+
+### 使用限制
+- 会话太长后生成质量会下降
+- 需求过于离谱时Copilot可能强行中断对话（较少见）
+- 理论上可以一直复用同一会话做各种事情
+
+### 适用条件
+- GitHub Copilot
+- Agent模式
+- 高级请求（Premium模型）
+
+## 关键概念
+
+- [[GitHub Copilot]] — GitHub的AI编程助手
+- Agent模式 — Copilot的自主执行模式，可运行命令和编辑文件
+- 高级请求（Premium Request）— 使用高级模型时消耗的额度
+- echo技巧 — 利用标准输出实现会话内持续交互的hack
 
 ## 关联实体
 
-（待分析后补充）
+- [[GitHub Copilot]] — 核心工具
+- [[linux.do]] — 技巧来源社区
 
 ## 相关页面
 
-（待分析后补充）
+- [[AI工具与应用-扩展]] — AI编程工具使用技巧
+- [[Obsidian]] — 同类工具的AI集成
+- [[教育与学习]] — AI辅助编程学习

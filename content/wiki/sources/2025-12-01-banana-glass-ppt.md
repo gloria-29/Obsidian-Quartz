@@ -1,23 +1,41 @@
 ---
 tags: [AI绘图, 提示词, PPT设计]
 created: 2025-12-01
-updated: 2025-12-01
-sources: []
+updated: 2026-06-13
+sources: [raw/notes/2025-12-01-banana-glass-ppt.md]
 ---
+
 # BananaPro提示词：渐变拟物玻璃卡片风格PPT
 
-> [[Nano Banana Pro]]生成高保真、未来科技感16:9幻灯片的提示词，融合Apple Keynote极简主义与玻璃拟态风格。
+## 概要
+使用 Nano Banana Pro 生成高保真、未来科技感 16:9 幻灯片的提示词方案，融合 Apple Keynote 极简主义与玻璃拟态（Glassmorphism）设计风格。支持封面、内容页、数据页三种构图模式自动切换。
 
-## 核心观点
-- 融合Apple Keynote极简主义+SaaS产品设计+玻璃拟态（glassmorphism）
-- Bento网格系统布局，3D磨砂玻璃卡片+极光渐变配色
-- 支持封面、内容页、数据页三种构图模式自动切换
+## 核心内容
+### 设计理念
+- 融合 Apple Keynote 极简主义 + SaaS 产品设计 + 玻璃拟态风格
+- Bento 网格系统布局，源自日本便当盒的模块化设计理念
+- 3D 磨砂玻璃卡片 + 极光渐变配色，营造未来科技质感
+
+### 构图模式
+- 封面页：大标题 + 渐变背景 + 玻璃质感主视觉
+- 内容页：Bento 网格分区，多卡片并列展示要点
+- 数据页：图表与数据指标的玻璃卡片化呈现
+
+### 技术要点
+- 16:9 宽屏比例适配标准投影和屏幕展示
+- 提示词中明确指定材质（磨砂玻璃）、光照（极光渐变）和布局（Bento Grid）
+- 三种模式可通过调整提示词关键词自动切换
 
 ## 关键概念
-- [[Nano Banana Pro]] — Google AI图像/PPT生成模型
-- [[Glassmorphism]] — 玻璃拟态UI设计风格
-- [[Bento Grid]] — 源自日本便当盒的模块化网格布局
+- **Glassmorphism（玻璃拟态）**: 半透明模糊背景 + 边框高光的 UI 设计风格，模拟磨砂玻璃效果
+- **Bento Grid（便当盒网格）**: 模块化网格布局，各区块大小不一但整体协调，源自日本便当盒美学
+- **Nano Banana Pro**: Google 的 AI 图像生成模型，擅长生成高保真设计稿和 PPT 幻灯片
+
+## 关联实体
+- [[Gemini]] — Nano Banana Pro 的底层 AI 能力来源
+- [[3x3-App]] — PPT 设计在工作流中的应用场景
+- [[Hermes Agent]] — AI 辅助设计工作流编排
 
 ## 相关页面
-- [[NotebookLM]]PPT生成
-- [[BananaPro提示词]]
+- [[个人成长与人生规划]] — PPT 制作是职场技能提升的重要方面
+- [[生活管理与SOP]] — 将设计模板 SOP 化，提升工作效率

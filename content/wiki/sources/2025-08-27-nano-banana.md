@@ -1,12 +1,51 @@
 ---
-title: Nano Banana图像编辑模型
-type: source
-date: 2025-08-27
-source: WuCai
-topics: [AI绘画, AI工具]
-entities: [Nano Banana, Gemini 2.5 Flash Image Preview]
+tags: [AI绘画, 图像编辑, Gemini, 免费工具, 人像处理, AI图像生成]
+created: 2025-08-27
+updated: 2026-06-13
+sources: [raw/articles/2025-08-27-nano-banana.md]
 ---
 
 # Nano Banana 图像编辑模型
 
-Google发布的图像编辑模型（官方名：Gemini 2.5 Flash Image Preview），在AI Studio免费使用。能力：祛痘瘦身瘦脸、普通照片变大片、穿搭展示、标记涂鸦辅助提示词、利用世界知识做视频特效、一键生成电影分镜、物品变实体贴纸。人脸相似度高于FLUX Kontext。
+## 概要
+
+Nano Banana是Google发布的图像编辑模型，官方名称为Gemini 2.5 Flash Image Preview，可在Google AI Studio免费使用。该模型在人像处理、创意图像生成和视频特效辅助方面表现出色，人脸相似度优于FLUX Kontext，是当时性价比极高的AI图像编辑方案。
+
+## 核心内容
+
+### 基本信息
+- **官方名称**：Gemini 2.5 Flash Image Preview
+- **社区昵称**：Nano Banana（因模型标识中的缩写而得名）
+- **使用方式**：通过Google AI Studio网页端直接使用，免费
+- **定位**：轻量级图像编辑模型，主打实用性和易用性
+
+### 核心能力
+- **人像美化**：祛痘、瘦身、瘦脸等精细人像处理，人脸相似度高于[[Nano Banana Pro]]竞品FLUX Kontext
+- **照片风格化**：将普通照片转变为电影感大片，提升画面质感和构图
+- **穿搭展示**：根据服装描述生成穿搭效果图
+- **标记涂鸦辅助**：在图片上做标记或涂鸦后，模型能理解标记意图并据此编辑图像
+- **世界知识应用**：利用模型的世界知识生成视频特效素材，如科幻场景、历史场景还原
+- **电影分镜生成**：一键生成电影分镜脚本所需的连续画面
+- **物品变贴纸**：将任意物品照片转化为可爱的实体贴纸风格图像
+
+### 与其他模型的对比
+- 相比FLUX Kontext，人脸相似度更高，人像编辑更自然
+- 相比传统Photoshop工作流，零学习成本，适合非专业用户
+- 后续被更强大的[[Nano Banana Pro]]（基于Gemini 3 Pro）所继承和升级
+
+## 关键概念
+
+- **图像编辑模型**：不同于纯生成模型，编辑模型在保持原图内容的基础上进行定向修改
+- **人脸相似度**：衡量AI编辑后人脸与原始照片的相似程度，是人像编辑的关键质量指标
+- **AI Studio**：Google提供的AI模型在线体验平台，无需编程即可测试各种模型能力
+
+## 关联实体
+
+- [[Nano Banana Pro]] — Nano Banana的升级版，基于Gemini 3 Pro，能力更强
+- [[Gemini]] — Nano Banana的底层模型系列
+
+## 相关页面
+
+- [[AI绘画与图像生成]] — Nano Banana是AI图像编辑领域的重要工具
+- [[AI工具与应用-扩展]] — 免费且易用的AI图像工具，适合日常使用
+- [[AI提示词工程]] — 标记涂鸦辅助提示词是提示工程在视觉领域的创新应用

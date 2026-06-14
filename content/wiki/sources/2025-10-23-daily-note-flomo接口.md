@@ -1,12 +1,45 @@
 ---
-title: Daily Note 2025-10-23
-type: source
-date: 2025-10-23
-source: WuCai
-topics: [flomo, API接口, 笔记同步]
-entities: [flomo, Notepal]
+tags: [flomo, API接口, 笔记同步, Notepal, 工具配置]
+created: 2025-10-23
+updated: 2026-06-13
+sources: [raw/notes/2025-10-23-daily-note.md]
 ---
 
-# Daily Note 2025-10-23
+# flomo API 兼容接口配置
 
-群聊讨论 flomo API 兼容接口配置，通过 Notepal 插件打通微信读书等应用到 flomo 的数据同步。
+## 概要
+
+记录了一次群聊中关于 flomo API 兼容接口的讨论和配置过程。核心方案是通过 Notepal 插件中转，实现微信读书等第三方应用到 flomo 的数据同步，避免直接购买 flomo 付费 API（99元/年）。这种方法为需要将外部数据汇聚到 flomo 笔记系统的用户提供了一条免费替代路径。
+
+## 核心内容
+
+### 背景与需求
+- flomo 作为轻量级笔记工具，支持通过 API 将外部内容同步到笔记库
+- flomo 官方 API 需付费（99元/年），对轻度用户成本偏高
+- 群聊讨论的替代方案：使用 flomo API 兼容接口
+
+### 配置方案
+- 通过 Notepal 插件中转，实现 flomo 兼容接口功能
+- 打通微信读书等应用到 flomo 的数据同步链路
+- 无需额外付费即可实现与 flomo API 相同的功能
+
+### 实际应用场景
+- 微信读书笔记自动同步到 flomo
+- 其他支持 API 输出的应用通过兼容接口汇聚到 flomo
+- 构建以 flomo 为中心的个人笔记数据流
+
+## 关键概念
+
+- **flomo API**: flomo 提供的官方数据接口，支持外部内容写入笔记，年费99元
+- **兼容接口**: 第三方实现的 flomo API 兼容端点，可替代官方付费接口使用
+- **Notepal**: 作为中转层的插件，桥接第三方应用与 flomo 之间的数据同步
+
+## 关联实体
+
+- [[知识管理与笔记系统]] — flomo 是轻量级知识管理工具，API同步是笔记系统自动化的重要环节
+- [[Obsidian]] — Obsidian 同样是笔记系统生态的重要组成部分，与 flomo 形成互补
+
+## 相关页面
+
+- [[个人成长与人生规划]] — 工具效率优化直接影响个人知识积累和成长效率
+- [[教育与学习]] — 笔记同步方案服务于学习过程中的知识捕获和整理

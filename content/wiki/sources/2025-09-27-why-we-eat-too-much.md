@@ -1,27 +1,70 @@
 ---
-tags: [weight-loss, set-point-theory, leptin, insulin, diet, health, podcast]
+tags: [减重, 定点体重, 瘦素, 胰岛素, 饮食, 健康, 播客, 横纵四海, Omega脂肪酸]
 created: 2025-09-27
-updated: 2025-09-27
-sources: []
+updated: 2026-06-13
+sources:
+  - raw/notes/2025-09-27-我们为什么吃（太多）-纵横四海-深度解读.md
+  - "[纵横四海 EP71](https://www.xiaoyuzhoufm.com/episode/)"
 ---
 
-# Why We Eat (Too Much): Set Point Weight Theory
+# 我们为什么吃（太多）：定点体重理论
 
-## Summary
-Podcast host Melody challenges the calories-in-calories-out model of weight loss, introducing the "set point weight" theory. The brain actively defends a weight range through appetite and metabolism regulation. Modern industrial diet (refined carbs, omega-6 oils) raises the set point by causing [[leptin]] resistance and chronic inflammation.
+## 概要
 
-## Core Ideas
-1. **Set point weight as the key concept**: The brain regulates weight like a thermostat using leptin (fat storage signal from adipocytes), ghrelin (hunger signal from stomach), and PYY (satiety from intestines). Dieting triggers compensatory mechanisms that raise the set point.
-2. **Two culprits raising the set point**: High insulin (from sugar/refined carbs) interferes with the brain reading leptin signals. Excess omega-6 fatty acids (industrial seed oils, grain-fed meat) relative to omega-3 cause systemic inflammation that creates leptin resistance.
-3. **The sugar-fat deception**: In the 20th century, the sugar industry funded Harvard research to blame saturated fat for heart disease, leading to global low-fat high-carb guidelines and the proliferation of harmful industrial vegetable oils.
+播客《纵横四海》EP71 主持人 Melody 深度解析"定点体重（Set Point Weight）"理论，挑战传统"热量差"减肥观。大脑通过瘦素、胃饥饿素、酪肽等激素调控一个体重目标值，现代工业化饮食（高糖、精加工碳水、工业植物油）通过引发胰岛素抵抗和慢性炎症导致瘦素抗性，不断推高定点体重，形成越胖越饿的恶性循环。节目揭示了"糖与脂肪的世纪骗局"——20 世纪制糖业资助哈佛研究嫁祸脂肪，并提供了基于科学原理的可持续减重方案。
 
-## Key Concepts
-- **Minnesota Starvation Experiment**: Demonstrated that calorie restriction lowers basal metabolic rate, increases hunger, and causes fat-preferential weight regain
-- **Thrifty gene hypothesis**: Populations with famine history have genes favoring fat storage, making them more vulnerable in modern food environments
-- **Lowering set point requires**: Avoiding 4 food categories (sugar, industrial oils, processed snacks, late-night takeout), prioritizing sleep (lowers cortisol), HIIT/strength training, stable blood sugar
+## 核心内容
 
-## Related Pages
-- [[GLP-1]] - Pharmacological intervention
-- [[OMAD]] - Eating pattern approach
-- [[Leptin and Ghrelin]]
-- [[Intermittent Fasting]]
+### 颠覆传统减肥迷思
+- "热量差"并非减肥最重要的法则——身体的负反馈系统会自动调节能量摄入与消耗
+- 基础代谢占总能量消耗约 70%，且是动态变化的：身体会根据摄入自动调整基础代谢率
+- **明尼苏达饥饿实验**：节食大幅降低基础代谢，增加饥饿感；恢复饮食后体重反弹更高，增加的主要是脂肪而非肌肉——越减越胖
+
+### 定点体重：身体的体重恒定机制
+- 大脑为身体设定一个体重目标值，通过食欲和基础代谢两个"开关"维持
+- 体重低于定点 → 增加食欲、降低代谢；高于定点 → 降低食欲、提高代谢
+- 三大调控激素：
+  - **瘦素（Leptin）**：脂肪细胞分泌，向大脑报告脂肪储备量
+  - **胃饥饿素（Ghrelin）**：胃部分泌，饥饿感的直接来源
+  - **酪肽（Peptide YY）**：肠道分泌，产生饱腹感
+- 定点体重是浮动的（非固定值），受饮食、压力、基因等多因素影响
+
+### 现代饮食如何推高定点体重
+- **瘦素抗性是核心**：脂肪过多 → 瘦素长期过高 → 大脑对信号麻木 → 即使超重仍发出"增加食欲"指令 → 恶性循环
+- **两大罪魁**：
+  1. **高胰岛素**（高糖 / 精加工碳水 → 血糖剧烈波动 → 高胰岛素）干扰大脑读取瘦素信号
+  2. **慢性炎症**（工业植物油中过量的 Omega-6 vs 严重不足的 Omega-3）直接或间接导致瘦素抗性
+- **糖与脂肪的世纪骗局**：20 世纪中期制糖业资助哈佛研究，将心血管疾病嫁祸给脂肪，催生低脂高碳水指南和工业植物油泛滥
+
+### 基因、压力与睡眠
+- **节俭基因理论**：经历过饥荒的族群后代更善于储存脂肪，在现代食物环境中更容易肥胖；表观遗传影响可能持续数代
+- **皮质醇**：长期压力 → 皮质醇升高 → 身体解读为"需要储备能量" → 直接提升定点体重
+- **睡眠不足**：升高皮质醇、扰乱褪黑素 → 引发胰岛素抵抗 → 推高定点体重
+
+### 降低定点体重的行动方案
+- **避免四类有害食物**：糖 / 精加工碳水；工业植物油 / 氢化油；工业零食 / 含糖饮料；高油高盐夜宵外卖
+- **平衡 Omega 脂肪酸**：减少工业植物油和谷饲肉类，增加深海鱼（或鱼油）
+- **优先保证睡眠**：作为降低皮质醇的关键手段
+- **正确运动**：高强度间歇训练（HIIT）或增肌训练——降低皮质醇、改善胰岛素敏感性
+- **管理血糖平稳**：蛋白质 + 健康脂肪 + 复合碳水搭配，避免血糖剧烈波动
+
+## 关键概念
+
+- **定点体重（Set Point Weight）**: 大脑为身体设定的体重目标值，通过激素负反馈机制维持；减肥的本质是降低这个定点
+- **瘦素抗性（Leptin Resistance）**: 长期高瘦素水平导致大脑对信号麻木，即使超重仍感觉饥饿——越胖越饿的生物学机制
+- **节俭基因理论（Thrifty Gene Hypothesis）**: 有饥荒历史的族群后代基因更善于储存脂肪，在现代食物环境中处于劣势
+- **糖与脂肪的世纪骗局**: 制糖业通过资助研究将心血管疾病嫁祸给脂肪，导致全球低脂高碳水饮食指南
+
+## 关联实体
+
+- [[减重与健康]] — 定点体重理论是理解减重的核心框架
+- [[GLP-1与药物减重]] — GLP-1 类药物（如司美格鲁肽）作为降低定点体重的药物干预手段
+- [[Melody]] — 《纵横四海》播客主持人
+- [[效率与自我管理]] — 饮食结构调整与生活习惯管理的交叉领域
+
+## 相关页面
+
+- [[减重与健康]] — 定点体重理论、Omega 脂肪酸平衡、运动与睡眠对体重的影响
+- [[心理与情感]] — 压力与皮质醇的关系、情绪化饮食的心理机制
+- [[个人成长与人生规划]] — 将健康减重纳入生活整体规划
+- [[效率与自我管理]] — 睡眠管理、饮食纪律与自我管理方法论的结合

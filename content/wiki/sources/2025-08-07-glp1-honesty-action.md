@@ -1,27 +1,35 @@
 ---
 tags: [GLP-1, weight-loss, medication, honesty, data-tracking]
 created: 2025-08-07
-updated: 2025-08-07
-sources: "[https://youtu.be/kXiwC3UhDHg]"
+updated: 2026-06-13
+sources:
+  - https://youtu.be/kXiwC3UhDHg
 ---
+# GLP-1药物减肥：诚实与行动是关键
 
-# GLP-1 Weight Loss: Honesty and Action
+## 概要
+成功减重125磅的 Meghann 分享其 [[GLP-1]] 减重哲学：药物是强大工具而非魔法，成功的关键在于彻底的自我诚实、每日称重的数据驱动决策、以及系统控制"输入变量"（饮食、运动、睡眠、饮水）。她用10个月减掉100磅，核心信条是"每日小事"（Small Things Daily）——微小可持续的改变日积月累带来生活方式转变。
 
-## Summary
-Meghann, who lost 125 lbs (starting at 243 lbs), shares her GLP-1 weight loss philosophy: the medication is a powerful tool, not magic. Success requires radical self-honesty, daily weigh-ins for data, and systematic control of "input variables" (diet, exercise, sleep, hydration). She lost 100 lbs in 10 months on GLP-1.
+## 核心内容
+- **GLP-1是工具而非解决方案**：药物消除"食物噪音"，提供精神空间和控制力，但使用者必须主动做出更好的选择。注射后她立即戒掉快餐、开始在家做饭、优先摄入蛋白质
+- **彻底诚实是基石**：对自己信守承诺如同对待朋友——将自我承诺的违背视为关系中的信任破坏。多年对食物撒谎的模式必须打破
+- **每日称重 + Happy Scale 应用**：每天裸称记录体重，使用移动平均值追踪趋势，区分正常波动与真正停滞。数据不撒谎，它是客观的反馈系统
+- **输入-输出框架**：体重是输出结果（不可直接控制）；饮食、运动、睡眠、饮水是可控输入变量。系统调整输入，输出自然改善
+- **找医生解决停滞**：如果行为已尽善尽美但体重仍不下降，需要与医生讨论剂量调整、药物更换或甲状腺/血液检查
 
-## Core Ideas
-1. **GLP-1 as tool, not solution**: The drug eliminates "food noise" and provides mental space, but the user must actively make better choices. She immediately quit fast food, started home cooking, and prioritized protein after her first dose.
-2. **Radical honesty as foundation**: Many overweight people lie to themselves about food. Treating self-commitments with the same seriousness as commitments to friends is the psychological foundation of change. "The scale doesn't lie - it's a data tool, not an enemy."
-3. **Daily weigh-ins + Happy Scale app**: Daily data tracking reveals patterns and distinguishes normal fluctuation from true stalls. Combined with journaling sleep, supplements, and water intake, the user becomes a "scientist" of their own body.
+## 关键概念
+- **食物噪音（Food Noise）**：大脑对食物的持续性焦虑和渴望，GLP-1 药物可有效抑制
+- **超级响应者**：对 GLP-1 药物即时产生显著效果的个体，非所有人都有此体验
+- **输入 vs 输出**：体重管理的思维框架——聚焦可控制的行为变量，而非不可控制的结果数字
+- **每日小事（Small Things Daily）**：频道名也是核心哲学——微小可持续的改变比激进方案更持久
 
-## Key Concepts
-- **Input vs output**: Weight is an output; diet, exercise, sleep, hydration are controllable inputs
-- **Small Things Daily**: Lasting change comes from tiny, sustainable daily choices stacked over months
-- **When results stall despite best efforts**: Consult doctor for dose adjustment, medication switch, or thyroid/blood work
+## 关联实体
+- [[GLP-1]] — GLP-1 受体激动剂类药物（司美格鲁肽等）
+- [[减重与健康]] — 减重方法论和健康管理
+- [[减重心理学与情绪饮食]] — 自我诚实、对食物的认知重构
+- [[个人成长与人生规划]] — 对自己信守承诺的自我关系重建
 
-## Related Pages
-- [[GLP-1]] - GLP-1 receptor agonists
-- [[OMAD]] - Alternative eating approach
-- [[Weight Loss Data Tracking]]
-- [[Intermittent Fasting]]
+## 相关页面
+- [[减重心理学与情绪饮食]] — 情绪性进食与自我欺骗的认知模式
+- [[减重与健康]] — GLP-1 药物作为减重工具的实践经验
+- [[个人成长与人生规划]] — 重建与自己的信任关系

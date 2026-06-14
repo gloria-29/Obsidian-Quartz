@@ -1,28 +1,62 @@
 ---
-tags: [mindful-eating, emotional-eating, weight-loss, psychology, EatQ, NotebookLM]
+tags: [mindful-eating, emotional-eating, EatQ, weight-loss, psychology, 正念饮食, 情绪化进食]
 created: 2025-01-03
-updated: 2025-01-03
-sources: []
+updated: 2026-06-13
+sources:
+  - Susan Albers "Eat.Q.: Unlock the Weight-Loss Power of Emotional Intelligence"
+  - NotebookLM 合成笔记
 ---
+# 正念饮食与情绪智力：EatQ 多书综合笔记
 
-# Mindful Eating: A Multi-Book Synthesis
+## 概要
 
-## Summary
-[[NotebookLM]] synthesis of four books on mindful and emotional eating: "EatQ" (emotional intelligence for eating), "But I Deserve This Chocolate" (mindful eating), "50 Ways to Soothe Yourself Without Food" (emotional eating strategies), and a mindful eating guide. Core thesis: sustainable weight management requires addressing the emotional and psychological drivers of eating, not just calorie counting.
+基于 Susan Albers 博士《Eat.Q.》等多本正念饮食书籍的 NotebookLM 综合研究笔记。核心论点：可持续的体重管理需要解决饮食背后的情绪和心理驱动因素，而非仅靠卡路里计算。通过提升情绪智力（EatQ），人们能更好地区分生理饥饿与情绪饥饿，做出更明智的饮食决策。
 
-## Core Ideas
-1. **EAT Method (Embrace, Accept, Turn)**: Recognize the feeling (Embrace), accept it without judgment (Accept), and turn toward positive alternatives instead of food (Turn). This works because emotional eating is about coping, not hunger.
-2. **EatQ (Eating Intelligence Quotient)**: High-EatQ individuals use emotional intelligence to make better food decisions. They distinguish between physiological hunger and emotional hunger, recognize cognitive biases ("all-or-nothing thinking"), and maintain self-awareness of eating patterns.
-3. **50 self-soothing alternatives to food**: The body seeks comfort, not specifically food. Replacements include: mindful breathing, progressive muscle relaxation, journaling, social connection, new hobbies, physical movement, and gratitude practice.
+## 核心内容
 
-## Key Concepts
-- **Emotional vs hedonic eating**: Emotional eating escapes negative feelings; hedonic eating seeks pleasure from food memories/associations
-- **Permission-giving beliefs**: Internal narratives that justify unhealthy choices ("I deserve this" / "I'll start tomorrow")
-- **Minimum Just Noticeable Difference**: Small, gradual dietary changes go unnoticed by the brain but accumulate into significant change
+### EAT 方法（三步法）
 
-## Related Pages
-- [[Mindful Eating]]
-- [[Emotional Eating and Psychology]]
-- [[Thin Within]] - Faith-based approach
-- [[Intuitive Eating]]
-- [[NotebookLM]] - AI research tool
+1. **Embrace（拥抱）**：识别并感受触发情绪化进食的情绪，不压抑、不回避
+2. **Accept（接受）**：不带评判地接纳情绪，认识到情绪是有效的信号
+3. **Turn（转向）**：寻找食物以外的健康替代方式应对情绪——运动、社交、正念呼吸、爱好
+
+### EatQ（饮食情商）模型
+
+EatQ 融合三个研究领域：情绪智力、情绪化进食、正念。高 EatQ 个体的特征：
+- 能区分生理饥饿与情绪饥饿
+- 识别"许可性信念"（"我值得吃这个"/"明天再开始"）
+- 觉知认知偏差（全有或全无思维、灾难化）
+- 使用"我选择不吃"代替"我不能吃"，增强内在控制感
+
+### 情绪化进食的五大障碍
+
+1. **节食**：过度关注食物反而导致暴饮暴食
+2. **寻求快乐**：大脑奖励机制驱动对高热量食物的追求
+3. **社交饮食**：在社交场合模仿他人饮食习惯（"饮食变色龙"效应）
+4. **压力**：皮质醇升高增加食欲和对高糖高脂食物的渴望
+5. **创伤**：用食物麻痹或逃避痛苦情绪
+
+### 50 种非食物自我安抚替代方案
+
+身体寻求的是安慰，而非特定食物。替代方式包括：正念呼吸、渐进式肌肉放松、写日记、社交连接、新爱好、身体运动、感恩练习。
+
+## 关键概念
+
+- EatQ — 饮食情商，将情绪智力应用于饮食决策的能力
+- EAT 方法 — 拥抱-接受-转向的情绪化进食干预框架
+- 三重P策略 — Perceive（感知压力信号）- Predict（预测高危情境）- Prepare（提前准备健康方案）
+- 最小可觉知差异 — 渐进的小幅度饮食变化不易被大脑察觉，但会累积成显著改变
+- 情绪化进食 vs 情绪驱动性进食 — 前者逃避负面情绪，后者与食物的积极联想有关
+
+## 关联实体
+
+- [[减重心理学与情绪饮食]]
+- [[心理与情感]]
+- [[减重与健康]]
+
+## 相关页面
+
+- [[减重心理学与情绪饮食]]
+- [[减重与健康]]
+- [[心理与情感]]
+- [[效率与自我管理]]

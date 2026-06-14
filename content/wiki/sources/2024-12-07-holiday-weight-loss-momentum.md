@@ -1,32 +1,56 @@
 ---
-tags: [health, fasting, weight-loss, holiday]
+tags: [减重, 禁食, 假期, OMAD, 习惯养成, 动力]
 created: 2024-12-07
-updated: 2024-12-07
-sources: [Fasting for Life Podcast]
+updated: 2026-06-13
+sources: [raw/notes/2024-12-07-如何在假期保持减重势头.md]
 ---
 
-# Maintaining Weight Loss Momentum During Holidays
+# 假期如何保持减重势头
 
-## Summary
-The [[Fasting for Life Podcast]] hosts (Dr. Scott Waterer and Tommy Welling) argue the holiday season is actually the BEST time to focus on fasting and weight loss goals—not a reason to defer. Research shows typical holiday weight gain is 1-2.5 kg (2-5 lbs), and the real problem is that this weight is never lost, compounding year after year. The key insight: momentum is the name of the game. Instead of the "I can't be on point, so what's the point?" mentality, maintain consistent fasting windows (even OMAD auto-pilot) and avoid the January "catch-up" trap. Action precedes motivation—don't wait for New Year's resolutions.
+## 概要
+来自 Fasting for Life 播客的讨论，Dr. Scott Waterer 和 Tommy Welling 认为假期恰恰是开始减重的最佳时机。研究显示假期平均增重 1-2.5 公斤，但真正的问题是这些体重年复一年累积，十年可达 20-50 磅。核心观点：势头（momentum）比完美更重要，行动先于动机。
 
-## Core Ideas
-- **Holiday weight gain compounds yearly**: 2-5 lbs/year adds up to 20-50 lbs over a decade
-- **Momentum over perfection**: maintain consistent fasting windows rather than going "all in or all out"
-- **Action precedes motivation**: don't wait to feel motivated; start with small actions that build momentum
-- **Holiday-specific strategies**: prioritize protein, plan ahead, maintain fasting windows even when routines change
-- **January resolution trap**: most people who wait until January never start or quit quickly
+## 核心内容
 
-## Key Concepts
-- [[Fasting for Life Podcast]] methodology
-- Holiday weight gain research (1-2.5 kg average)
-- Insulin resistance and chronic inflammation
-- OMAD as auto-pilot strategy during busy seasons
-- Metabolic switch: shifting from sugar burning to fat burning
-- Maintenance goals vs. loss goals during holidays
+### 假期增重的真实数据
+- 研究表明假期平均增重 1-2.5 公斤（2-5 磅）
+- 问题不在增重本身，而在于这些体重在剩余月份从未被减掉
+- 年复一年累积：10 年可增 20-50 磅，40 年更严重
 
-## Related Pages
-- [[Fasting for Life Podcast Insights]] – comprehensive fasting guide
-- [[OMAD Lifestyle Commitment]]
-- [[OMAD Emotional Eating Analysis]]
-- [[Huberman Lab Essentials: Lose Fat With Science-Based Tools]]
+### 势头比完美更重要
+- "我做不到完美，那还有什么意义"是最大的思维陷阱
+- 不是"全有或全无"——维持目标和减重目标在假期同样有效
+- 不必等到新年再行动：统计数据表明大多数新年决心从未真正执行
+- 行动先于动机：先做一件小事，动力自然会来
+
+### 假期实操策略
+- 默认 OMAD（一天一餐）作为自动驾驶模式，简化决策
+- 优先蛋白质摄入，保持一致的禁食窗口
+- 即使例行公事改变也要继续做计划——不规划等于放弃
+- 12 月的胜利不一定是体重下降，维持本身就是净收益
+- 假期不是几天大吃大喝的问题，而是零食、无意识进食和社交压力的累积
+
+### 完美主义的陷阱
+- 非黑即白思维：要么全力投入，要么完全放弃
+- 不要过于激进设定不切实际的目标
+- 也不要把头埋在沙子里假装问题不存在
+- 找到中间地带——保持稳定，允许灵活
+
+## 关键概念
+- **代谢开关（Metabolic Switch）**：长期不注意饮食会偏向糖燃烧和脂肪储存模式
+- **OMAD 自动驾驶**：假期用一天一餐简化进食决策
+- **维护目标 vs 减重目标**：假期不增重就是胜利
+- **行动先于动机**：不是有了动力才行动，而是行动产生动力
+
+## 关联实体 [[wikilinks]]
+- [[Fasting for Life Podcast]]
+- [[OMAD]]
+- [[间歇性禁食]]
+- [[胰岛素抵抗]]
+- [[代谢开关]]
+
+## 相关页面 [[wikilinks]]
+- [[减重与健康]]
+- [[减重心理学与情绪饮食]]
+- [[GLP-1 Girl]]
+- [[睡眠与神经科学]]

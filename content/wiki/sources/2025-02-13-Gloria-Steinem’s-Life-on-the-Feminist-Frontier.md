@@ -1,35 +1,58 @@
 ---
+title: "Gloria Steinem’s Life on the Feminist Frontier"
 type: source
-title: "2024年12月-2025年Q1个人SOP及计划"
-date: 2024-12-23
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+date: 2025-02-13
+source: web
+source_url: https://www.newyorker.com/magazine/2015/10/19/gloria-steinem-profile-jane-kramer
+topics: ["工具", "工作"]
+entities: ["Newsletter", "The Latest", "News", "Books &amp; Culture", "Fiction &amp; Poetry"]
 ---
 
-# 2024年12月-2025年Q1个人SOP及计划
+# Gloria Steinem’s Life on the Feminist Frontier
 
-> 笔记 ID: 0193f018-5b38-7c2d-82ed-5532d168e19f
-
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2024-12-23
-
-
-
+## 概要
+Markdown Content: &#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61;&#61; 这是用户在 2025-2-13 22:30 为 https://www.newyorker.com/magazine/2015/10/19/gloria-steinem-profile-jane-kramer 保...
 
 ## 核心内容
 
-笔记 ID: 0193f018-5b38-7c2d-82ed-5532d168e19f
+### Newsletter
+- Newsletter
+- The Latest
+- News
+- Books &amp; Culture
+- Fiction &amp; Poetry
+- Humor &amp; Cartoons
+
+### Fiction by Patricia 
+- Fiction by Patricia Highsmith: “The Trouble with Mrs. Blynn, the Trouble with the World”
+- News 新闻
+- Books &amp; Culture 书籍与文化
+- Fiction &amp; Poetry 虚构与诗歌
+- Humor &amp; Cartoons 幽默与卡通
+- Magazine 杂志
+
+- Buy Covers and Cartoons 购买封面和卡通
+- Shop The New Yorker 购买《纽约客》杂志
+- Manage Account 管理账户
+- Goings On 进行中
+- 100th Anniversary 第一百周年
+- Podcasts 播客
+- Video 视频
+- Crossword 纵横字谜
+- Magazine 杂志
+- Humor &amp; Cartoons 幽默与卡通
+- Fiction &amp; Poetry 虚构与诗歌
+- Books &amp; Culture 书籍与文化
+- News 新闻
+- Fiction by Patricia Highsmith: “The Trouble with Mrs. Blynn, the Trouble with the World”
+- What does procrastination tell us about ourselves?
+- How Colonel Sanders built his Kentucky-fried fortune.
+- Where the Amish go on vacation.
+- The man who spent forty-two years at the Beverly Hills Hotel pool.
+- Searching for the cause of a catastrophic plane crash.
+- 100th Anniversary
+## 关键概念
 
 ## 关联实体
 
-（待分析后补充）
-
 ## 相关页面
-
-（待分析后补充）

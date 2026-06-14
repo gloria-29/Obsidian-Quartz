@@ -30,3 +30,7 @@ Dr. Mark Hyman discusses how the industrial food system is driving a chronic dis
 - [[Semaglutide and Calorie Control]]
 - [[Huberman Lab Essentials: Lose Fat With Science-Based Tools]]
 - [[Fasting for Life Podcast Insights]]
+
+## 延伸阅读
+
+- 更多相关内容可参考相关主题页面。

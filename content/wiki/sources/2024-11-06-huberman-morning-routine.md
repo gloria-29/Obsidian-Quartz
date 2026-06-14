@@ -1,34 +1,58 @@
 ---
-tags: [health, morning routine, habits]
+tags: [health, morning-routine, habits, neuroscience, Huberman]
 created: 2024-11-06
-updated: 2024-11-06
-sources: [Huberman Lab]
+updated: 2026-06-13
+sources:
+  - raw/notes/2024-11-06-I-Tried-Andrew-Huberman's-Health-Boosting-Morning-Routine-for-28-Days-—-Here's-What-Happe.md
 ---
 
 # Huberman Morning Routine 28-Day Experiment
 
-## Summary
-A writer shares her 28-day experiment following [[Huberman Lab|Andrew Huberman]]'s science-based morning routine. She tested early waking, deliberate cold exposure, morning sunlight, hydration with salt, 90-minute focused work blocks, delayed caffeine, and fasted workouts. Key finding: women should not do fasted exercise per [[Huberman Lab|Dr. Stacy Sims]]. She adapted the protocol—replacing cold showers with cold morning walks, eating before workouts—and achieved better sleep, consistent writing habits, and improved health.
+## 概要
 
-## Core Ideas
-- **Science-based routine but individual adaptation is essential**: Huberman's protocol provides a framework, but "even if something is science-based or popular, we must still test everything ourselves and only keep what works for us."
-- **Morning sunlight and outdoor walks** were the most transformative habits, improving mood and sleep consistency
-- **Fasted exercise is not suitable for women** due to physiological differences (per Dr. Stacy Sims on Huberman Lab)
-- **Routines should serve life, not restrict it**: flexibility matters—breaking routine occasionally for life events is healthy
-- **Start small**: incorporating too many habits at once is a recipe for failure
+一位写作者进行了为期28天的实验，遵循 [[Huberman Lab|Andrew Huberman]] 基于科学的晨间日常方案。实验涵盖早起、冷暴露、晨光照射、盐水补水、90分钟专注工作、延迟咖啡因和空腹运动等习惯。核心发现：女性不应进行空腹运动（来自 [[Huberman Lab|Dr. Stacy Sims]]）。作者通过个性化调整——用冷空气散步代替冷水浴、运动前进食——最终实现了更好的睡眠、稳定的写作习惯和整体健康提升。
 
-## Key Concepts
-- [[Huberman Lab]] Daily Blueprint: free science-backed morning protocol
-- Deliberate cold exposure for energy, focus, and metabolism
-- Morning sunlight for circadian rhythm regulation
-- 90-minute ultradian work cycles for deep focus
-- Delayed caffeine (90-120 min after waking) to avoid afternoon crash
-- [[Non-sleep deep rest|NSDR]] for afternoon energy recovery
-- Low solar angle sunset viewing for sleep preparation
+## 核心内容
 
-## Related Pages
-- [[Huberman Lab]] – neuroscience-based health tools
-- [[Understanding Light, Sleep, and Circadian Rhythms]]
-- [[Deep Work]] – focused work blocks
-- [[Tiny Habits]] – habit formation strategy
-- [[Cold Exposure and Fat Loss]]
+### Huberman Daily Blueprint 核心习惯
+- **早起**: 目标6:00-6:30起床，醒后不立即看手机
+- **冷暴露**: 3分钟冷水浴或冷淋浴，提升能量、专注力和代谢（作者改为穿短裤在冷空气中散步）
+- **晨光照射**: 10-15分钟户外阳光散步，调节昼夜节律——这是实验中最具变革性的习惯
+- **盐水补水**: 起床后喝约1升水加少量海盐，稳定血糖并抑制食欲
+- **90分钟深度工作**: 利用超昼夜节律（ultradian cycle）进行专注写作或阅读，关闭手机
+- **延迟咖啡因**: 起床后90-120分钟再摄入咖啡因，避免午后疲劳
+- **空腹运动**: 作者发现这对女性不适用，改为先进食再运动
+
+### 四周实验过程
+- **第1周**: 最具挑战——早起困难、冷暴露痛苦、空腹运动无力。第4天起调整策略，放弃冷水浴和空腹运动
+- **第2周**: 享受户外晨间散步带来的愉悦感，尝试马黛茶（yerba mate）作为咖啡因来源，允许灵活调整时间
+- **第3周**: 探索非睡眠深度休息（[[Non-sleep deep rest|NSDR]]）应对午后疲劳；尝试高碳水晚餐和日落散步改善睡眠
+- **第4周**: 尝试 Huberman 健身方案——包括长距离有氧、35分钟中强度有氧、HIIT和力量训练分组
+
+### 关键实验结论
+- 晨间阳光和户外散步是最核心的习惯，显著改善情绪和睡眠
+- 科学方案必须结合个人生理特点进行调整——"即使是基于科学的，也必须自己测试"
+- 偶尔打破惯例是健康的——晨间方案应服务于生活而非限制生活
+- 同时引入太多习惯是失败的根源——小步开始才是正确策略
+
+## 关键概念
+
+- **Daily Blueprint**: Huberman 免费提供的科学晨间方案指南
+- **超昼夜节律（Ultradian Cycle）**: 人类注意力以约90分钟为周期波动，利用此规律安排深度工作
+- **延迟咖啡因效应**: 起床后等待腺苷自然清除后再摄入咖啡因，可延长全天能量水平
+- **NSDR（Non-Sleep Deep Rest）**: 非睡眠深度休息，20分钟左右的冥想式放松，可恢复午后精力
+- **低角度阳光（Low Solar Angle）**: 日出和日落时的蓝黄对比光线是调节昼夜节律最有效的信号
+- **性别差异与运动营养**: 女性因生理特点不宜空腹运动，需提前摄入蛋白质和碳水
+
+## 关联实体
+
+- [[Huberman Lab]] — Andrew Huberman 主持的神经科学播客，提供实验方案的科学依据
+- [[BJ Fogg]] — 行为设计之父，其微习惯理论解释了为何实验需要从小习惯开始
+- [[Fogg行为模型]] — B=MAP 框架解释了动机+能力+提示如何共同促成行为改变
+
+## 相关页面
+
+- [[睡眠与神经科学]] — 晨间习惯的核心目标之一是改善睡眠质量，涉及昼夜节律调节机制
+- [[科学健康优化]] — 实验整体思路是对个人健康方案的科学化系统优化
+- [[效率与自我管理]] — 90分钟深度工作和晨间流程设计属于自我管理的核心实践
+- [[减重与健康]] — 实验涉及的运动方案和饮食调整与体重管理密切相关

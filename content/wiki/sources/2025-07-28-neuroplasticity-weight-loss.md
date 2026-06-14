@@ -1,27 +1,39 @@
 ---
-tags: [neuroplasticity, weight-loss, willpower, CBT, SDT, habit-formation]
+tags: [neuroplasticity, weight-loss, willpower, CBT, habit-formation, neuroscience]
 created: 2025-07-28
-updated: 2025-07-28
-sources: []
+updated: 2026-06-13
+sources:
+  - Deep Research 生成的研究报告
 ---
+# 利用神经可塑性构建长效减重意志力系统
 
-# Building Sustainable Weight Loss Willpower Through Neuroplasticity
+## 概要
+一份系统性研究报告，利用神经科学、认知行为疗法（CBT）和自我决定论（SDT），揭示体重反弹的深层神经机制并提供分阶段行动方案。核心观点：单纯依靠意志力对抗身体生理防御机制注定失败，必须利用神经可塑性原理重塑大脑对饥饿、渴望及自我认知的反应模式。
 
-## Summary
-A comprehensive framework using [[neuroplasticity]], [[Cognitive Behavioral Therapy]] (CBT), and [[Self-Determination Theory]] (SDT) to rewire the brain for lasting weight management. The approach targets the prefrontal cortex (rational control), limbic system (desire/dopamine), and basal ganglia (habit automation) through a 3-phase plan.
+## 核心内容
+- **大脑战争模型**：减重反弹的根源在于边缘系统（伏隔核多巴胺奖赏回路、杏仁核情绪绑定、海马体记忆存档）对高热量食物的自动化渴望，压倒了前额叶皮层（PFC）的理性控制。身体同时通过升高饥饿素、降低瘦素、降低代谢率进行生理反抗
+- **三阶段行动计划**：
+  - 启动期（1-8周）：设定微习惯构建胜任感，CBT功能性分析识别触发器，"选择菜单"强化自主性
+  - 平台期（8-24周）：CBT认知重构将停滞重定义为"巩固期"，扩展非体重成功指标，引入"冲动冲浪"正念技术
+  - 维持期（24周后）：CBT复发预防演练，身份认同从"减肥者"转变为"健康践行者"，行为组块化实现自动化
+- **CBT + SDT整合**：CBT提供战术工具（认知重构、行为实验、功能分析），SDT提供战略方向（满足自主性、胜任感、归属感以内化动机）
+- **动机内化路径**：从外部调节（"瘦了别人会喜欢我"）→ 内摄调节 → 认同调节 → 整合调节（"健康是我身份的一部分"）
 
-## Core Ideas
-1. **Brain warfare model**: Weight regain stems from the limbic system (dopamine-driven cravings from nucleus accumbens and amygdala) overwhelming the prefrontal cortex (rational control). The body also fights back with elevated ghrelin, reduced leptin, and lowered metabolic rate.
-2. **Three-phase action plan**: (1) Startup - micro-habits and functional analysis to build competence; (2) Plateau - cognitive restructuring and urge surfing to maintain momentum; (3) Maintenance - relapse prevention and identity shift from "dieter" to "healthy person."
-3. **CBT + SDT integration**: CBT provides tactical tools (cognitive restructuring, behavioral experiments) while SDT provides strategic direction by satisfying autonomy, competence, and relatedness needs to internalize motivation.
+## 关键概念
+- **瘦素抵抗**：高胰岛素和炎症因子干扰大脑读取瘦素信号，形成"肥胖中的饥饿"悖论
+- **mPFC身份编码**：内侧前额叶皮层编码自我概念；持久改变需要更新"我是谁"而非仅仅"我做什么"
+- **设定点理论**：大脑通过食欲和代谢调节维持体重范围；可持续减重需要逐步降低设定点
+- **冲动冲浪**：基于正念的技术，不带评判地观察渴望如波浪般升起和消退，切断"渴望-自动进食"的神经连接
+- **行为组块化**：将多个健康行为打包为单一自动化程序，交由基底节执行，不再消耗意志力
 
-## Key Concepts
-- **Leptin resistance**: High insulin and inflammatory factors (omega-6) interfere with the brain reading leptin signals, creating a "starving while obese" paradox
-- **Identity encoding in mPFC**: The medial prefrontal cortex encodes self-concept; lasting change requires updating "who I am" not just "what I do"
-- **Set point theory**: The brain defends a weight range through appetite and metabolism adjustments; sustainable weight loss requires lowering the set point
+## 关联实体
+- [[减重与健康]] — 报告核心目标领域
+- [[减重心理学与情绪饮食]] — 情绪性进食的神经机制和应对策略
+- [[GLP-1]] — 药物辅助减重的另一路径，与神经可塑性方案互补
+- [[个人成长与人生规划]] — 身份认同转变方法论可推广至人生其他领域
+- [[AI工具与应用-扩展]] — AI 辅助 Deep Research 生成深度研究报告的实践
 
-## Related Pages
-- [[GLP-1]] - Pharmacological approach to weight management
-- [[OMAD]] - One Meal a Day eating pattern
-- [[Huberman Lab]] - Neuroscience of habits
-- [[Deep Work]] - Cal Newport on focused discipline
+## 相关页面
+- [[减重心理学与情绪饮食]] — 情绪性进食机制与CBT应对策略
+- [[减重与健康]] — 减重科学的综合知识框架
+- [[个人成长与人生规划]] — 身份认同转变和动机内化的通用方法

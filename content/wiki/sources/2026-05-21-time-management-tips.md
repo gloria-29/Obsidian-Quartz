@@ -1,26 +1,63 @@
 ---
-tags: [时间管理, 拖延症, 生产力]
+tags: [时间管理, 拖延症, 生产力, GTD, 番茄工作法, 效率]
 created: 2026-05-21
-updated: 2026-05-21
-sources: []
+updated: 2026-06-13
+sources:
+  - raw/articles/2025-05-10-time-management.md
 ---
-# Effective Time Management Tips
 
-> 一份结构化的时间管理框架，聚焦对抗拖延症，涵盖每周规划、每日专注块、定期回顾三大核心。
+# 有效时间管理技巧
 
-## 核心观点
-- 三大核心模块：每周规划（Week Planning）-> 每日专注执行（Focus Blocks）-> 定期回顾适应（Review & Adapt）
-- 关键技巧：吃青蛙（Eat the Frog）、番茄工作法（Pomodoro）、时间块（Time Blocking）、批量处理（Task Batching）
-- 拖延症三大原因：任务太大感到 overwhelmed、完美主义、环境干扰
-- 五大方法对比：Time Blocking、Pomodoro、GTD、Eat That Frog、Eisenhower Matrix 各有适用场景
-- 常见错误：日程过度安排、缺乏优先级、频繁任务切换（重新聚焦需~23分钟）
+## 概要
+
+一份结构化的时间管理框架，聚焦对抗拖延症，涵盖每周规划、每日专注块、定期回顾三大核心模块。对比了 Time Blocking、Pomodoro、GTD、Eat That Frog、Eisenhower Matrix 五种主流方法的适用场景。
+
+## 核心内容
+
+### 三大核心模块
+- **每周规划（Week Planning）**：设定目标、分配任务优先级、安排时间块
+- **每日专注执行（Focus Blocks）**：在固定时间段内专注单一任务，减少切换
+- **定期回顾适应（Review & Adapt）**：复盘进展，调整策略
+
+### 关键技巧
+- **吃青蛙（Eat the Frog）**：每天先做最难最重要的任务
+- **番茄工作法（Pomodoro）**：25分钟专注 + 5分钟休息循环
+- **时间块（Time Blocking）**：将一天划分为专注时间块
+- **批量处理（Task Batching）**：同类任务集中处理减少切换成本
+
+### 拖延症三大原因
+1. 任务太大感到 overwhelmed
+2. 完美主义倾向
+3. 环境干扰过多
+
+### 五大方法对比
+
+| 方法 | 核心机制 | 最佳场景 |
+|------|----------|----------|
+| Time Blocking | 预设时间块 | 需要深度工作的知识工作者 |
+| Pomodoro | 25+5 循环 | 容易分心、需要节奏感的任务 |
+| [[GTD]] | 五步工作流 | 任务繁杂需要系统化管理 |
+| Eat That Frog | 先做最难的 | 有明确优先级的日常工作 |
+| Eisenhower Matrix | 四象限分类 | 需要决策优先级的管理者 |
+
+### 常见错误
+- 日程过度安排，缺乏弹性
+- 缺乏优先级，忙碌但低效
+- 频繁任务切换——重新聚焦需约 **23分钟**
 
 ## 关键概念
-- [[Eisenhower Matrix]] — 艾森豪威尔矩阵，紧急/重要四象限优先级排序
-- [[Pomodoro Technique]] — 番茄工作法，25分钟专注+5分钟休息循环
-- [[GTD]] — Getting Things Done，David Allen 的任务管理系统
-- [[Deep Work]] — Cal Newport 提出的深度专注工作模式
+- **[[Eisenhower Matrix]]** — 紧急/重要四象限优先级排序，高效人士在 Q2 停留最久
+- **[[Pomodoro Technique]]** — 25分钟专注+5分钟休息循环，降低启动门槛
+- **[[GTD]]** — Getting Things Done，[[David Allen]] 的任务管理系统
+- **[[Deep Work]]** — [[Cal Newport]] 提出的深度专注工作模式
+
+## 关联实体
+- [[Cal Newport]] — 深度工作与时间分块理论奠基人
+- [[David Allen]] — GTD方法论创始人
+- [[效率与自我管理]] — 时间管理与自我提升的主题汇总
+- [[个人生产力与时间管理]] — 时间管理工具与系统
 
 ## 相关页面
-- [[Cal Newport]]
-- [[Deep Work]]
+- [[Deep Work]] — 无干扰深度专注工作模式
+- [[Gemini]] — 可用于构建时间管理AI助手
+- [[Obsidian]] — 可用于搭建个人时间管理系统

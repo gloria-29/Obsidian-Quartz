@@ -1,12 +1,45 @@
 ---
-title: DeepSeek V3.2 正式版强化 Agent 能力融入思考推理
-type: source
-date: 2025-12-01
-source: WuCai
-topics: [大模型, AI推理, Agent]
-entities: [DeepSeek, DeepSeek-V3.2, DeepSeek-V3.2-Speciale]
+tags: [DeepSeek, 大模型, AI推理, Agent, 开源模型]
+created: 2025-12-01
+updated: 2026-06-13
+sources: [raw/articles/deepseek-v3.2正式版.md]
 ---
 
-# DeepSeek V3.2 正式版
+# DeepSeek V3.2 正式版强化 Agent 能力融入思考推理
 
-DeepSeek 发布 V3.2 和 V3.2-Speciale 正式版，强化 Agent 能力与思考推理，推理能力全球领先。
+## 概要
+
+DeepSeek 同时发布 V3.2 和 V3.2-Speciale 两个正式版模型，在 V3.2-Exp 基础上验证了 DSA 稀疏注意力机制的有效性。新模型强化了 Agent 能力并融入思考推理，推理能力全球领先，官方网页端、App 和 API 均已更新。
+
+## 核心内容
+
+### 模型发布
+- DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale 同步发布
+- 基于 V3.2-Exp 实验版验证迭代
+- 技术报告同步公开
+
+### 核心技术
+- **DSA 稀疏注意力机制**：验证有效，提升推理效率
+- **Agent 能力强化**：更好地支持工具调用和多步骤任务
+- **思考推理融入**：将推理能力整合进主模型
+
+### 推理能力
+- 推理能力达到全球领先水平
+- 支持复杂逻辑推理和代码生成
+- 适用于多种下游任务场景
+
+## 关键概念
+
+- **DSA（稀疏注意力机制）**：DeepSeek 提出的高效注意力计算方法，降低长序列处理成本
+- **Agent 能力**：模型调用工具、执行多步骤任务、与环境交互的综合能力
+- **思考推理**：模型在生成回答前进行内部推理链的机制
+
+## 关联实体
+
+- [[DeepSeek]] — 模型发布方，中国领先AI实验室
+- [[DeepSeek-V3]] — V3.2 的基础架构版本
+
+## 相关页面
+
+- [[Deep-Research-Github]] — 同为AI工具应用相关内容
+- [[20251225笔记总结]] — 包含DeepSeek免费API资源信息

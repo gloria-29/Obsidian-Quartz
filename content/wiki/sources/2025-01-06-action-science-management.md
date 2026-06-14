@@ -1,28 +1,64 @@
 ---
-tags: [behavior-change, action-science, habits, ABC-model, self-management]
+tags: [action-science, behavior-change, ABC-model, MORS, habits, self-management, 认知偏差]
 created: 2025-01-06
-updated: 2025-01-06
-sources: []
+updated: 2026-06-13
+sources:
+  - 行动科学管理术：个人行为改变指南
 ---
+# 行动科学管理术：个人行为改变指南
 
-# Action Science Management: A Behavior Change Guide
+## 概要
 
-## Summary
-A guide to personal behavior change based on "action science management." The core argument: lasting change comes from modifying actions and their consequences, not from relying on willpower. The ABC model (Antecedent-Behavior-Consequence) explains how behavior is shaped by results, and the MORS framework (Motivation-Objective-Resource-Step) provides a structured approach to habit formation.
+一本基于行为科学的个人行为改变实操指南。核心论点：持久的行为改变来自修改行动及其后果，而非依赖意志力。通过 ABC 模型分析行为的因果链，以 MORS 框架将目标分解为可执行的微行动，结合认知偏差觉察和正念技术，系统性地实现习惯养成和自我管理。
 
-## Core Ideas
-1. **Willpower is overrated; action is everything**: The famous Marshmallow Test didn't show that successful children had more willpower - they used better action strategies (distraction, reframing). Cognitive biases and "automatic thoughts" undermine willpower; systematic action design works better.
-2. **ABC Model for behavior analysis**: Antecedent (trigger situation) leads to Behavior which produces Consequences that reinforce or extinguish the behavior. Change comes from modifying consequences and antecedents, not from "trying harder."
-3. **MORS Framework**: Measureable, Observable, Reliable, Specific actions. Break goals into concrete micro-actions with immediate feedback. Small consistent actions compound into significant change over time. "Do it until not doing it feels uncomfortable."
+## 核心内容
 
-## Key Concepts
-- **Cognitive bias traps**: All-or-nothing thinking, catastrophizing, overgeneralization undermine self-management
-- **Gratitude cards**: Tangible tool to shift attention from negative to positive
-- **"Live broadcast" technique**: Narrating current actions in real-time to maintain focus and avoid distraction
-- **Self-efficacy building**: Small wins, positive feedback, role models, and relaxation techniques
+### ABC 行为分析模型
 
-## Related Pages
-- [[Habit Formation]]
-- [[Cognitive Behavioral Therapy]]
-- [[Fogg Behavior Model]]
-- [[Self-Determination Theory]]
+- **A（Antecedent，前提条件）**：触发行为的情境或环境线索
+- **B（Behavior，行为）**：具体可观察的行动
+- **C（Consequence，结果）**：行为带来的后果，强化或消退该行为
+
+改变策略：不是"更努力地克制"，而是修改前提条件（改变环境）和结果（建立即时反馈）。
+
+### MORS 微行动框架
+
+- **M（Motivation）**：理解行动背后的深层原因
+- **O（Objective）**：设定清晰、可衡量的目标
+- **R（Resource）**：盘点实现目标所需的资源
+- **S（Step）**：将目标分解为具体可操作的步骤
+
+核心理念："做直到不做会感到不舒服"——通过小行动的持续重复形成习惯。
+
+### 关于意志力的颠覆认知
+
+棉花糖实验的真实发现：延迟满足成功的孩子并非拥有更多意志力，而是使用了更好的行动策略（分散注意力、重新框定）。认知偏差和"自动化思考"持续侵蚀意志力；系统性行动设计比"更自律"更有效。
+
+### 六章结构概览
+
+1. 难以改变的原因 — 从意志力转向行动导向
+2. 戒除破坏性习惯 — 用身体动作控制情绪
+3. 小心信念陷阱 — 语言塑造感知，正念管理思维
+4. 从小习惯开始 — MORS 框架与即时反馈
+5. 避开心理陷阱 — "实况转播"技术保持专注
+6. 认同并提升自己 — 自我效能四要素（小成功、正面反馈、榜样、放松）
+
+## 关键概念
+
+- ABC 模型 — 前提-行为-结果行为分析框架，修改前因和后果而非"更努力"
+- MORS 法则 — 动机-目标-资源-步骤的微行动分解框架
+- 自动化思考 — 未经审视的认知模式导致非理性决策
+- "实况转播"技术 — 实时口头描述当前行动以维持注意力
+- 自我效能 — 通过小成功、正面反馈、榜样和放松技巧建立信心
+- 认知偏差陷阱 — 全有或全无思维、灾难化、过度概括
+
+## 关联实体
+
+- [[效率与自我管理]]
+- [[心理与情感]]
+
+## 相关页面
+
+- [[效率与自我管理]]
+- [[心理与情感]]
+- [[减重心理学与情绪饮食]]

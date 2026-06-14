@@ -1,35 +1,32 @@
 ---
+title: "The Anthropologists Transcript and Chapters from Podcast Und"
 type: source
-title: "BananaPro提示词-小说经典场景微缩模型"
-date: 2025-12-10
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+date: 2025-04-17
+source: Dinox
+topics: [电子工具]
+entities: []
 ---
 
-# BananaPro提示词-小说经典场景微缩模型
+# The Anthropologists Transcript and Chapters from Podcast Und
 
-> 笔记 ID: 019b05af-1b9a-78a2-86e1-d865b8869759
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2025-12-10
-
-
-
+原始链接：https://podquest.app/s/p/undeceptions-with-john-dickson_fd17c/e/the-anthropologists_bf36f/transcript#shownotes-transcript  ## The Anthropologists  2025/3/31!logo of podcast Undeceptions with John Dickson  ## Undeceptions with John Dickson  AI Deep DiveAI ChaptersTranscript  PeopleCChristine JeskeJJohn DixonTTim LarsonTopics@John Dixon: 本期节目探讨了人类学与宗教信仰之间的复杂关系。早期人类学家，例如爱德华·泰勒，持无神论观点，认为宗教是野蛮人的产物
 
 ## 核心内容
 
-笔记 ID: 019b05af-1b9a-78a2-86e1-d865b8869759
+### 概述
+
+- 原始链接：https://podquest.app/s/p/undeceptions-with-john-dickson_fd17c/e/the-anthropologists_bf36f/transcript#shownotes-transcript  ## The Anthropologists
+
+## 关键概念
+
+- **The Anthropologists Transcript and Chapters from Podcast Und** — 原始链接：https://podquest.app/s/p/undeceptions-with-john-dickson_fd17c/e/the-anthrop
 
 ## 关联实体
 
-（待分析后补充）
+- [[待补充]]
 
 ## 相关页面
 
-（待分析后补充）
+- [[待补充]]

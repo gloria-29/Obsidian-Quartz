@@ -1,35 +1,56 @@
 ---
-type: source
-title: "I-Tried-Andrew-Huberman's-Health-Boosting-Morning-Routine-for-28-Days-—-Here's-What-Happe"
-date: 2024-11-06
-source_type: unknown
-tags: []
-card_box: []
-sources: []
-images: 0
-image_paths: []
+tags: [Huberman, 晨间例程, 健康, 习惯养成, 自我实验]
+created: 2024-11-06
+updated: 2026-06-13
+sources:
+  - type: note
+    title: "I Tried Andrew Huberman's Health-Boosting Morning Routine for 28 Days"
+    path: raw/notes/2024-11-06-I-Tried-Andrew-Huberman's-Health-Boosting-Morning-Routine-for-28-Days-—-Here's-What-Happe.md
 ---
 
-# I-Tried-Andrew-Huberman's-Health-Boosting-Morning-Routine-for-28-Days-—-Here's-What-Happe
+# 亲测 Andrew Huberman 晨间例程 28 天
 
-> 标题: I Tried Andrew Huberman&39;s Health-Boosting Morning Routine for 28 Days — Here&39;s What Happened | by Alexa V.S. | in In Fitness And In Health
+## 概要
 
-## 基本信息
-
-- **来源类型**: unknown
-- **创建时间**: 2024-11-06
-
-
-
+一位远程工作者按照斯坦福神经科学家 Andrew Huberman 的科学晨间例程实践 28 天的记录。包含早起、冷水暴露、光照散步、盐水补水、90 分钟专注工作、延迟咖啡因和空腹运动等习惯。最终睡眠改善、写作更规律、整体更健康，但需根据个人情况灵活调整。
 
 ## 核心内容
 
-标题: I Tried Andrew Huberman&39;s Health-Boosting Morning Routine for 28 Days — Here&39;s What Happened | by Alexa V.S. | in In Fitness And In Health
+### Huberman 晨间例程七步
+
+1. **早起（6:00-6:30）**：醒后不看手机
+2. **冷水暴露**：3 分钟冷水浴（作者改为穿短裤晨走）
+3. **光照散步**：10-15 分钟户外阳光暴露，调节代谢和情绪
+4. **盐水补水**：1 升水加少许海盐，稳定血糖、抑制食欲
+5. **90 分钟专注工作**：关闭手机，搭配 40Hz 双耳节拍
+6. **延迟咖啡因**：起床后 90-120 分钟再喝咖啡，避免午后疲倦
+7. **空腹运动**：1 小时力量训练或有氧交替（女性建议先吃早餐）
+
+### 实验发现
+
+- **冷水暴露**：对作者来说太极端，改为穿短裤晨走同样有效
+- **空腹运动**：女性生理特点不适合空腹运动（Dr. Stacy Sims 建议），改为先吃再练
+- **最佳收获**：晨间散步成为最爱习惯，恢复了规律写作节奏
+- **未解决**：醒后不看手机仍然困难
+
+### 关键教训
+
+即使科学验证的习惯也需个人化调整。女性与男性生理差异意味着同样的方案效果不同。测试、保留有用的、丢弃不适合的。
+
+## 关键概念
+
+- **NSDR（Non-Sleep Deep Rest）**：非睡眠深度休息，类似冥想的午后恢复方法
+- **延迟咖啡因**：等待皮质醇自然升高后再摄入咖啡因，避免全天疲倦
+- **光照暴露**：晨间阳光通过视网膜信号调节昼夜节律和激素分泌
 
 ## 关联实体
 
-（待分析后补充）
+- [[Andrew Huberman]]
+- [[晨间例程]]
+- [[习惯养成]]
 
 ## 相关页面
 
-（待分析后补充）
+- [[35-50岁女性护肤与医美指南]]
+- [[三天碱性饮食法]]
+- [[四周极简200字饮食方案]]

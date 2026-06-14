@@ -1,12 +1,46 @@
 ---
-title: 微软MCP教程与GitHub热点
-type: source
-date: 2025-08-14
-source: WuCai
-topics: [MCP协议, 开源项目]
-entities: [Tinyauth, kiss-translator, KittenTTS, LangExtract]
+tags: [MCP协议, GitHub, 开源项目, 翻译工具, TTS, 身份认证]
+created: 2025-08-14
+updated: 2026-06-13
+sources: [raw/articles/2025-08-14-mcp教程-github热点.md]
 ---
 
-# 微软MCP教程与GitHub热门项目
+# 微软MCP教程与GitHub热点速览
 
-微软开源系统MCP教程。同期热门：Tinyauth(Go零代码认证中间件)、kiss-translator(双语对照翻译插件)、KittenTTS(英文TTS)、LangExtract(文本结构化提取)、snapdom(网页截图)。
+## 概要
+
+微软正式开源 MCP 教程，系统讲解 MCP 协议原理与最佳实践，推动该协议在开发者社区的标准化普及。同期 GitHub 热门项目涵盖零代码认证、双语翻译、TTS 语音合成和结构化信息提取等多个方向，反映出开源社区对易用性工具的持续关注。
+
+## 核心内容
+
+### 微软开源 MCP 教程
+
+- 微软发布了系统性的 MCP 教程文档，覆盖协议原理、接入方式和工程最佳实践
+- 这是 MCP 协议从 Anthropic 主导走向行业标准化的重要里程碑——微软背书意味着 MCP 生态将获得更广泛的工具链支持
+- MCP（Model Context Protocol）定义了大模型与外部工具交互的统一接口，是 AI Agent 工具调用的基础设施层
+
+### GitHub 热门项目一览
+
+- **Tinyauth**（4.4k 星）：Go 语言编写的零代码身份认证中间件，支持 Docker 一键部署，可快速为应用添加 OAuth 登录能力
+- **kiss-translator**（6.3k 星）：开源双语对照翻译浏览器插件，支持 Google Translate、DeepL、OpenAI 等多种翻译后端，适合日常阅读和学习场景
+- **KittenTTS**（6k 星）：高质量英文文本转语音模型，轻量级但效果出色
+- **LangExtract**：谷歌开源项目，专注于从非结构化文本中提取结构化信息，可用于文档解析、数据抽取等场景
+- **snapdom**：网页截图工具，便于快速捕获和分享网页内容
+
+## 关键概念
+
+- **MCP（Model Context Protocol）**：Anthropic 提出的模型上下文协议，定义 AI 模型与外部工具/数据源交互的标准化接口，正在成为 AI Agent 生态的基础设施
+- **零代码认证中间件**：无需编写认证逻辑即可为应用添加登录功能的工具，降低安全实现门槛
+- **双语对照翻译**：同时展示原文和译文的翻译方式，兼顾理解效率和语言学习价值
+
+## 关联实体
+
+- [[MCP]] — 微软开源教程推动协议标准化和社区普及
+- [[沉浸式翻译]] — kiss-translator 是同类型的浏览器翻译插件竞品
+- [[DeepSeek]] — 可作为 kiss-translator 的翻译后端之一
+
+## 相关页面
+
+- [[MCP协议与工具生态系统]] — MCP 教程是该领域的重要学习资源
+- [[AI工具与应用-扩展]] — GitHub 热门项目展示了 AI 工具生态的多样发展方向
+- [[翻译技术与本地化]] — kiss-translator 和 LangExtract 涉及翻译与文本处理

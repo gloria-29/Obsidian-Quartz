@@ -1,12 +1,48 @@
 ---
-title: 渐变拟物玻璃卡片风格 PPT 提示词 Nano Banana Pro
-type: source
-date: 2025-11-29
-source: WuCai
-topics: [AI生成PPT, 提示词, 设计]
-entities: [Nano Banana Pro]
+tags: [AI生成PPT, 提示词, 设计, NanoBanana, 视觉设计]
+created: 2025-11-29
+updated: 2026-06-13
+sources: [raw/articles/2026-05-18-20251201-nano-banana-pro-prompts-高质量-ai-提示词与图像生成.md]
 ---
 
-# 渐变拟物玻璃卡片风格 PPT 提示词 Nano Banana Pro
+# 渐变拟物玻璃卡片风格 PPT 提示词
 
-Nano Banana Pro 生成玻璃拟物卡片风格 PPT 的提示词分享。
+## 概要
+
+使用 Nano Banana Pro 生成玻璃拟物卡片风格 PPT 的提示词集合。该风格融合渐变色背景、毛玻璃质感和立体阴影，适合制作视觉冲击力强的演示文稿。提示词强调高保真度渲染、多语言文本准确性和精细的光影控制。
+
+## 核心内容
+
+### 风格特征
+- 渐变色背景搭配毛玻璃（frosted glass）质感卡片
+- 拟物化设计：立体阴影、高光反射、圆角边框
+- 文字层叠于半透明卡片之上，层次分明
+- 适合科技感、极简风、商务汇报等场景
+
+### 提示词要点
+- 指定材质关键词：frosted glass, gradient background, soft shadow, rounded corners
+- 控制光影：指定光源方向、反射强度、模糊半径
+- 文本渲染：Nano Banana Pro 支持中英文混合文本的准确生成
+- 尺寸参数：使用 --size 控制分辨率（1K/2K/4K），--aspect-ratio 控制比例
+
+### 使用场景
+- 科技产品发布会风格 PPT
+- 数据可视化仪表盘风格页面
+- 极简商务汇报模板
+- 个人品牌展示页面
+
+## 关键概念
+
+- **拟物设计（Skeuomorphism）**: 模拟现实世界材质（玻璃、金属、阴影）的界面设计风格
+- **毛玻璃效果（Frosted Glass）**: 半透明模糊背景效果，常见于 iOS/macOS 设计语言
+- **渐变色（Gradient）**: 两种或多种颜色之间的平滑过渡，增强视觉深度
+
+## 关联实体
+
+- [[写作与内容创作]] — AI 生成视觉素材是内容创作的重要环节
+- [[Nano Banana Pro]] — Google 推出的 AI 图像生成模型，擅长文本渲染和风格控制
+
+## 相关页面
+
+- [[写作与内容创作]] — 提示词工程是 AI 辅助创作的核心技能
+- [[知识管理与笔记系统]] — 将提示词整理为可复用的模板库，提升工作效率

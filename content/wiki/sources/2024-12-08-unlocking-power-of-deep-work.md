@@ -33,3 +33,7 @@ A deep dive into [[Cal Newport]]'s concept of [[Deep Work]]: the ability to focu
 - [[Tiny Habits]] – building focus habits incrementally
 - [[Huberman Morning Routine]] – 90-minute work blocks
 - [[Neuroplasticity]] – the brain science behind skill building
+
+## 延伸阅读
+
+- 更多相关内容可参考相关主题页面。
